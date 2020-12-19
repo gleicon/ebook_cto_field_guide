@@ -1,15 +1,27 @@
-### The CTO Field Guide (for the first 90 days)
+# The CTO Field Guide (for the first 90 days)
 
-That's a big title and huge post. I've written many pieces of it through the last years and decided to put them all together. I mostly write to myself but hopes that it helps someone. 
-I wanted to get your attention. When I put CTO there, I meant a tech lead, engineering manager, director of engineering, VP of Engineering in any sized organisation —  anyone that is joining a new company and figuring out where to start. And why 90 days ? It seems a good time measure. Honestly you won't have the time.
+This short ebook came from a post with a big title. Actually many posts. I've written many pieces of it through the last years and decided to join them. 
+
+I wanted to get your attention. When I put CTO in the title, I meant a tech lead, engineering manager, director of engineering, VP of Engineering in any sized organization —  anyone that is joining a new company and figuring out where to start. Believe me, the difference is the scale.
 
 Not only that — I also want to reach the group of people that got promoted (a long waited promotion or the "you, yes you. step in as engineering manager" kind of promotion).
 
-I've been helping startup CTOs and other tech leads as a mentor for 6 years, mostly learning with them and helping where I can. I took notes. A lot of them. I also keep diaries about my own professional experiences that I review from time to time.
+And why 90 days ? It seems a good time measure. Honestly you won't have the time.
 
-### Table of contents
+I've been helping startup CTOs and other tech leads as a mentor for some years, mostly learning with them and helping where I can. I took notes. A lot of them. I also keep diaries about my own professional experiences that I review from time to time.
 
-  * [Introduction](#introduction)    
+#### How to read it
+
+The section from Introduction to TL;DR is for you, personally, specially if you are moving to the management track. The section from The Plan to the end has what you need to know to get prepared.  
+
+Good reading !
+
+## Table of contents
+
+  * [Introduction](#introduction)
+  * [Career change](#career-change) 
+  * [Top downs](#top-downs)
+  * [TL;DR](#tl;dr)  
   * [The plan](#the-plan)    
   * [Learning and Measuring](#learning-and-measuring)
   * [Challenges](#challenges)
@@ -19,15 +31,239 @@ I've been helping startup CTOs and other tech leads as a mentor for 6 years, mos
             
 
 #### Introduction
-I've learned a lot about myself writing down diaries for each company I worked for. We are used to looking only for stellar success or big failures but there is a lot in between. I wrote about my [career change](https://medium.com/@gleicon/move-fast-and-intentionally-ignore-a-couple-of-things-8731727ad845) if you are interested.
+
+I've learned a lot about myself writing down diaries for each company I worked for. We grow used to look only for stellar success and fear big failures but there is a lot in between. 
 
 What struck me most is how starting is hard. There are so many variables that it is unfair to think you will be able to cover most of them. And when you start, you are in a hurry to show some service, to help and succeed, which mounts up the pressure.
 
 So I put together what I consider a fair sequence to learn and act as a guide for tech leadership. As it is based on my observations and experience, it is an opinionated guide. It is heavily based on my perspective and beliefs through these experiences. 
 
-Before anything else, we will start with THE PLAN.
+I've also added some learnings from a post about my [career change](https://medium.com/@gleicon/move-fast-and-intentionally-ignore-a-couple-of-things-8731727ad845). 
 
-#### The plan
+Every change or promotion is a new start and there are two important aspects: you and what you will be doing for the next years. 
+
+Before anything else, we will talk about you, your career and then we will work on the starting plan ([click here](#the-plan) if you want to jump straight to that).
+
+### Career change
+
+#### Engineering versus Management
+
+I can't say that management was a planned path to me — it was a transition I did. After some time in my career, I thought it would be interesting to try my hand in management after watching other managers results. I figured it could be the path to fix what made me unhappy about my growth. That genius moment didn't came fast or easy tho.
+
+Management/Engineering ladder or Y career model is a term used to describe different profiles inside the same company. I call it a myth because the implemented cases I saw were more about retention than the real prospect of monetary equity or a path where you could move between careers without prejudice. This is called "pendulum career". Down at 
+
+At the time I did my transition the myth of the Y Career was strong in promises but rare in opportunities — manager to tech leads ratio was way over 10 to 1 at most companies. We, the tech team were told that managers were people that "are doing the boring HR work" or "isolating us from business requests" and that by working hard we could aim to a place where money and benefits were equal to managers and that would be life.
+
+Don't take me bad - I believe the Y career model is good a temporary step while the company can't equal compensation and accountability to every member in the team based in their importance in a transparent way. It is a patch to what was instituted in the 1950s corporate ladder, where becoming a manager was the end goal for employees and it didn't made sense to compensate commodity workers in the same way you did for executives.
+
+It is better than nothing, far from optimal. Don't you believe that ? Check out how much money companies pay for licenses, people and servers when their world is crashing compared when everything is peaceful.
+
+![Another Y-Career victim](images/doggo.jpg)
+
+This discussion is only possible by the radical change on engineering culture that we are seeing in the last 10 years or so. The market for engineers and people that can manage them changed radically, managers are pressed to learn and behave in ways that their peers from 20 years ago would not even imagine. 
+
+Acceptable behaviors from Engineers and Managers also shifted radically, long are gone the days of the insufferable genius or the distant technology executive. For instance, no manager worth their salt nowadays don't do 1:1s (For the benefit of the people working with you I recommend reading [this post by Michael Lopp](http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/) about 1:1s). 
+
+#### Was it my call to duty ?
+
+I can say I experienced distinct management styles and scenarios; from the CYA based management to a more technical and product oriented management during my pre-manager time.
+
+Over time, I had the feeling that only working as a technical contributor was not sustainable if I wanted to grow. It was also clear that the money flowed in a different direction and that having non-tech managers close to places where decision was made was causing a lot of rework and miscommunication.
+
+Considering past opportunities that I declined in favour of not believing in the traditional management career, at some point I started to believe that I had to experiment this change.
+
+I knew what I did, I knew what I didn't like my managers did and I had some good role models, so why not ? I knew the [golden rule](https://en.wikipedia.org/wiki/Golden_Rule) so that should be easy right ? 
+
+Wrong. The first barrier to overcome was that I didn't know it was possible to me to be a manager, therefore I've had convinced myself to not pursue it first because it seemed unattainable to get there and then under the "boring non-tech work" excuse.
+
+At your first job, what did you think when you saw your manager or director cruising away in a big car ? In which order "I could do that" came to your mind ? It was hard to me to relate how people got into this position. Actually I've never questioned it. It looked like they were born like that.
+
+After the aforementioned "I know how to do it" moment, I committed to myself that I'd embrace the next opportunity to lead a team and apply the same energy I did when learning a new language or on-boarding into a new company. I've vowed to start small leveraging what I knew, studying with the few technical managers available and trying to avoid making mistakes.
+
+#### Saying No and Adapting
+
+The details of how I got my opportunity still feels weird to me, suffice to say that it was pure luck on my part and being in the right moment at the right time. The timing was that the company I was working with was failing and the managers there leaving or being fired and someone was needed to help a team that worked with a legacy no one wanted to touch. As I said I've approached it trying to avoid too many mistakes.
+
+Turns out I did a lot of them. And while I was learning, my responsibilities increased. I started small (a 4 people team) and quickly saw myself managing half of the company tech team for reasons I should put in another post. **One of the most common mistakes is not learning to say "No" soon enough**.
+
+Over time the people I managed changed, naturally as the people joining companies changed too. Furthermore my management style had to **adapt**, in communication and expectations.
+
+**Adapting** meant trying to figure out how my team expectations changed. A generation ago the main concern was to lose your job, today companies have a hard time recruiting because good technical people don't want to have a job for a long time without meaningful space to have an impact. 
+
+My first management experience was on a team with everyone mostly my age, my last one was with an average ten-years younger. It is impossible to come across with the same arguments for such a demographic range without sounding silly and inefficient.
+
+I had the luck of working with the best people around and see a lot of them becoming managers, tech leads, working abroad and competing with good advantage to people from countries that put more emphasis in tech than Brazil. That makes me proud and my life was easier because of them.
+
+**Knowing what your team does** makes your life easy. Looks like a weird thing to say, but answer this: if you had to start from where someone of your team is working today, would you know how hard is to do their job ? Would you be able to deliver, ask for help, convince your peers , burn the midnight oil or get back to management with a convincing argument about doing or not doing it ?
+
+[**Harvard Business Review published an article based on a study that says "If your boss could do your job, You are more likely to be happier at work"](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work)** . It also says that the common wisdom of promoting people from the team to management positions being a bad thing* is wrong*. It isn't easy for the new manager, but it is not a bad thing to let someone that has tech experience to manage the team. It also helps shoot down the myth of the Y career. Leadership is a natural progression and can be learned. **Leadership emerges**.
+
+#### Know your team
+
+Regardless of how much importance is put in tech teams in a company, people are their most powerful asset. This sounds cheesy, but both in companies that hire 100s of developers and tech is seem as a commodity than for companies that have a small team which holds the company's life in their hands, people make the difference.
+
+You know that when you work as a tech person in the team, you see things from a different angle than when you are managing a team. Especially when 2 weeks after you arrive you find out they are leaving due for any reason: a new company came up paying more, the former manager messed up, a key person left or excess work was put over them. 
+
+It happened to me in my first experience. I didn't knew what to do, but a friend told me to start hiring. Tough luck if it happens to you but do not lose hope, it happens. 
+
+You will have plenty of opportunities to mess up, but if you are just getting there, this one wasn’t your fault. Learn to hire (go speak in conferences, abuse the hallway track, pay lunches/coffee/dinner, open your company to communities, reach out to friends), learn to fire.
+
+People have to feel **purpose** to perform well. They should feel that they belong to something and feel that whoever is leading supports and works to keep them safe. Safe is not "treating people like children" but safe as in "if you own it we have your back". Safety in terms of expressing what they think, support when trying and failing, getting rid of jerks and coaching everyone to be a potential leader.
+
+**Purpose** is not only collecting their salary or vesting stock — this is good and necessary as much as impact on their industry and for themselves. But growing up, saving money, helping people to move on their careers, make successful products and get better. All of this is subjective and very particular but impossible to ignore. Learning what is the purpose of each person on your team is necessary.
+
+#### Team culture
+
+The team culture is made from everyone's contribution and it is hard to see at first how you influence it as a leader and how each of the personalities plays into it. But it is not hard to spot aggressors. I want to point two: The **brilliant jerks** and **tech dramas**.
+
+##### Brilliant Jerks
+
+If I had to point an article about engineering culture in a broader context I say read (and re-read) [this interview with Joe Stump](http://firstround.com/review/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture/). 
+
+This interview has so much more content and actionable points than just the title but it caught my eye along with Netflix culture deck I've read some years ago:
+
+![Brilliant jerks](images/netflix.png)
+
+That was later rewritten and incorporated in [their culture manual](https://jobs.netflix.com/culture) with a similar phrasing and more context.
+> On a dream team, there are no “brilliant jerks.” The cost to teamwork is just too high. Our view is that brilliant people are also capable of decent human interactions, and we insist upon that. When highly capable people work together in a collaborative context, they inspire each other to be more creative, more productive and ultimately more successful as a team than they could be as a collection of individuals.
+
+"Brilliant jerks" by rule are not brilliant and take a lot of time and energy to manage from everyone, especially their peers. It is just not worth the time everyone spends and frankly not worth the production. I am yet to see a productive person cause impact without the minimal people skills. And frankly, most of the time they are not brilliant. 
+
+I decided to not put up with this kind of personality early on, after a lot of frustration and what I perceived as lack of support. Interesting enough, once I got a feedback that I behaved like a jerk in certain situations, and looking to it I found that I was cascading past behaviours. I've made a decision to destroy the myth that this is the default behaviour for tech people wherever I worked, starting by myself.
+
+This works in both ways — when learning up your craft, depending on your personality you may converge to an aggressive style specially if cornered under pressure. Exercising empathy you can detect if you are falling in this trap before tagging others as jerks. This can come from any role: Engineers, Product Managers, Engineering Managers and executives.
+
+You don't need to cuddle and be a clown all the time but learn some people skills. It is very important to sought for help, having the support of a trained psychologist or mentor makes all the difference.
+
+##### Tech Dramas
+
+On small companies and teams CI/CD, monitoring, automation, processes, choice of programming language and code review/pair programming may be the first things you have to decide upon. Some of them for due diligence and the rest mainly to put out the week's drama. You'll always have the tension between whatever kind of Dev and Ops you implement and at this stage they come out louder as a scapegoat.
+
+As the teams advances in maturity you'll see product management and tech culture more defined, the adjustment of the importance of tech in the org, the need for hiring and career plans.
+
+After your company gets bigger these problems grow exponentially and you start to see leaks in your culture and morale tagged as "communication problems", a common misnomer.
+
+Unhappiness, whining and rumours are normal. As soon as you acknowledge they exist and to some extent they are normal, the best. Use your energy to build bridges and channels that this information can get to you after being filtered by the good sense of your team mates. 
+
+Mondays are the worst day to take actions over this as the mood usually is not good (cut the bs about not loving Mondays being a bad sign).
+
+### Top downs
+
+One of the hardest things to do is to explain decisions. Specially when the mood is that "anything outside of the team is a Top Down". Top downs are sort of a ghost haunting teams, which is hard to chase. But they don't exist most of the time - what exists is an unbalance on one of the sides.
+
+You'll see smaller teams taking over old corporate IT structures to build instead of buying some of the components of the business. You might be the one leading it, the victim in the losing side of it or just a passerby. Depending on it a decision of one team can be perceived as a Top Down to the other.
+
+The contrary movement happens too: tech as commodity — when all technology you have is from outside vendors. It comes as "We have the brains, they execute" or "you guys spent 2 years trying to reinvent the wheel and we're making an Executive decision of buying Big O software". Same energy and awareness issue. Where transparency failed ? Where all nice agile presentations were gone ?
+
+In both cases proper planning, objectives and how to measure success is lacking in favour of knee-jerk reactions. We will see that below, after [The Plan](#the-plan).
+
+The importance of knowing what your team does, what your company do and having the courage to express your point of view is that you will be closer to the birth of these decisions. They are not made in the cafeteria or in all hands gathering. 
+
+They are result of storming out frustration and discussions, which if you can't negotiate your way, there is a potential of trashing your tech team. In both cases the side effect is people leaving because if the higher ups don't care, why should they ? (remember they are not afraid of losing their job or not finding a new one).
+
+![bring in the cloud bois](images/enterprise_adopt.png)
+
+#### "Adjusting" the culture
+
+All that said, while I was writing this post's drafts I stumbled in some news that caught my attention in companies with strong engineering culture and that I see as an adjustment of culture in face of results they were getting. On real big companies this is as hard to see from outside as finding planets around distant stars. We rely on leaks, investors reports, outages and mass firings to get the data. Ah, and by "adjustment of culture" I mean top-downs.
+
+Facebook motto was "**Move fast and break things**", a motivational piece to own mistakes and quickly move forward. At the [2014 F8 event](http://mashable.com/2014/04/30/facebooks-new-mantra-move-fast-with-stability/), they changed it to “**Move Fast with Stable Infra**”. The reasons behind it may not be different from other companies: investors, regulations, predictability, MTTR, SLAs and better customer experience.
+
+[Yahoo published ](http://spectrum.ieee.org/view-from-the-valley/computing/software/yahoos-engineers-move-to-coding-without-a-net)that by cutting out QA steps led to better quality, shorter delivery times and other goodies. It does not mean that they are throwing code to production without ensuring that automation visibility is in place. It means the accountability shifted from a QA team to the engineers, using a continuous delivery system, when the code goes live if anything breaks it must to be fixed within the proper SLA. No more CYA by complaining about QA.
+
+A couple of years ago a former Amazon engineer published the "[Jeff Bezos Mandate](https://plus.google.com/+RipRowan/posts/eVeouesvaVX)". It is a commentary about Amazon being a platform and a list of things mandated and enforced at the engineering level to ensure this platform was to be.
+
+> 1) All teams will henceforth expose their data and functionality through service interfaces.
+> 2) Teams must communicate with each other through these interfaces.
+> 3) There will be no other form of interprocess communication allowed: no direct linking, no direct reads of another team’s data store, no shared-memory model, no back-doors whatsoever. The only communication allowed is via service interface calls over the network.
+> 4) It doesn’t matter what technology they use. HTTP, CORBA, Pubsub, custom protocols — doesn’t matter. Bezos doesn’t care.
+> 5) All service interfaces, without exception, must be designed from the ground up to be externalizable. That is to say, the team must plan and design to be able to expose the interface to developers in the outside world. No exceptions.
+> 6) Anyone who doesn’t do this will be fired.
+
+It doesn't seems important, but number 3 alone would warrant weeks of meetings at some companies and a round of beer on others. And by the rest of the post looks like Amazon enforcement was a bit more stronger than a weekly passive/aggressive reminder.
+
+What we have there:
+
+* going from crazy to crazy with stability is required, find your synchronism and don't bother the business because you wanted to push linux as your main network router and it failed.
+
+* cutting out the test pipeline and telling engineers to own their quality, not because QA is bad but because cutting out who to blame forces empowerment. Saying you haven't delivered because you didn't have a free QA or DBA is not acceptable.
+
+* jerry-rigging your stuff on any place is enforced with a ban from the paradise. This basically cuts any kind of slack you give to people that can't design and run their code alone but can't make the time to work in a team context.
+
+Look at the companies I'm talking about: Facebook, Yahoo and Amazon. These adjustments on culture and behaviour means that a set of practices and culture paid off in a way that the traditional processes surrounding IT didn't. 
+
+These processes mean less to leadership and execs than it does on other kind of companies. The team owns what is in production respecting a certain set of rules or a limited freedom. Ownership, accountability and other nice words are used to describe this effect.
+
+But before moving to processes, I want to talk about another euphemism for top downs:
+
+#### Disagree and commit
+
+Disagree and commit means more than what is discussed on modern self-managed teams or management 3.0 material. Company performance awareness is important during growth. As we saw in the adjustments from Yahoo, Amazon and Facebook that we could track, there might be top downs at the executive level but more often disagreements will happen in local groups.
+
+[**Disagree and commit - Wikipedia**
+*Disagree and commit is a management principle which states that individuals are allowed to disagree while a decision is…*en.wikipedia.org](https://en.wikipedia.org/wiki/Disagree_and_commit)
+
+In an ideal team context, discussions would not veer too far of what the culture dictates. Some people will be more laid back, others more vocal. Once in a while, you will have an argument but usually it settles back. When tech management is lacking, there will be long discussions. The gauge to me is that as the discussion grows, if no action is taken, no one moves, it quickly becomes meaningless. It becomes an ego exercise as I mentioned before for bikeshedding.
+
+If this is frequent and impacting delivery, the company will look for tools that makes sense looking from a high executive position: institute devices as the ARB — **Architectural Review Board**. In an attempt of not telling people what to do or owning up decisions you end up with a tribune to replicate the same discussions in public, like old Rome. The other common device is bringing in outside experts.
+
+![ARB was set to design a better horse using Agile methods to be CI'ed. The committee delivered.](images/horso.jpg)
+
+These are the answers of busy executives mixed with the generic "communication problem". There will be no meaningful decisions, at most the most vocal person may get some space but this kind of personality rarely comes with good execution skills. It signal strongly that there is no effective engineering leadership. 
+
+It feels different than "disagree and commit", it is a "sit down and be quiet". And far from *buy-in, *the side that "lost" (as they will rightfully perceive the outcome) will just wait to get delighted by the failure or collectively think about leaving to create an impact.
+
+This may cause middle manager leadership to leave, which is a team as hard to build as a good engineering team. Naturally we think that if the not-so-good people leave we will be in a good spot but that's rarely the case alone. There will be different composition to the horde of unhappy, and there is a cascading effect coming from the conversation this team have out of band. It is more common that competent people leaves altogether. 
+
+#### Processes (why I learned to own production)
+
+Another "disagree and commit" point are processes. Traditional companies resort to ITIL or other traditional IT methodologies in hope that it helps figure out operations and delivery. When it gets to development, the same formula is applied with Agile methodologies or equivalent factory based ideas.
+
+In both Development and Operations cases teams are assembled around these processes and meetings scheduled to link them to existing processes, converging to a spreadsheet and someone asking why deadlines are not being respected or how can we shrink the budget. Corporate managers versus Technical Managers.
+
+![Ops installed a clock…](images/clock.jpg)
+
+At the same time in the last years DevOps, Facebook's Production Engineering and Google's SRE got in the middle of both teams, sometimes not to substitute them but as cry for help from development teams for more speed and freedom.
+
+Google released a [book on their SRE](https://landing.google.com/sre/book.html) practices, which describes how they deliver service and software in a reliable manner. Companies tries to adopt this bundle of mixed methods to move fast but at the same time protect their business. In the sections below you will see some of these practices selected to help you quickly get on your feet.
+
+Given the proper context I don’t think development and operations are so distinct that they need different people and skillsets. I like to call this set of activities Delivery, which means the whole. Some business verticals and government rules require these activities to be separated (separation of duties) to allow your company to operate or to buy from you.
+
+![.. and the Dev team took a shot on fixing it](images/clock2.jpg)
+
+On the other hand, people with limited experience and weak self assessment fails miserably when trusting the same things it takes to build CRUD apps applies to operations and the reverse: when thinking that by knowing Ansible and Python you can build business applications right away. 
+
+What most traditional companies have not explored is taking out these processes-based roles, and probably people that fill these roles, out of the production pipeline. This is what companies like Facebook and Yahoo are saying they are doing when they say they shortened the path for production. In shorter words — distribute ownership. That is usually named "You build, you run".
+
+The regular production pipeline of creating software comes from the company/market/sales needs and ideas. It goes through a hopefully incremental development and deployment cycle and lives in an environment that is taken care of.
+
+Customers use the new product, ask for new features, complain when it is offline or broken, the company lives through its pain, people exchange email blaming each other because things are not perfect and life goes on asking permission on processes that should ensure quality and stability.
+
+In the book "[High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_1?ie=UTF8&qid=1522418806&sr=8-1&keywords=high+output+management)", Andy Groove (Former CEO of Intel) uses a breakfast factory to illustrate production line among other things. One of the key metrics to plan a proper production line is the time on the task that takes more time. It is an interesting book to explore as it embodies most of how we work today. 
+
+Many scenarios are explored and it is possible to grasp the idea of waste, delivery time and investment on production. In many cases, tentative improvements to machinery in a single place of the production line come out as waste when put together at the end. I can't recommend this book enough as it is an historical document where you can see the beginnings of many of our industries practices there — for example OKRs.
+
+All this requires a set of skills and ownership hard to achieve first hand so empathy can be used to understand what is going on when your organization has this division. If your tech org still has functional team it means that for whoever that is accountable in a higher level things are not as green as it appears. Be sure you don't know everything about all the things.
+
+![shamelessly stolen from [https://twitter.com/chopeh/status/926074073767206912](https://twitter.com/chopeh/status/926074073767206912)](images/fixing.jpg)*shamelessly stolen from [https://twitter.com/chopeh/status/926074073767206912](https://twitter.com/chopeh/status/926074073767206912)*
+
+### TL;DR
+
+Don't hesitate to try your hand on technical management if you considered that for at least 1 minute in the recent past. You can try it, you won't lose what you know and the world needs better leaders. The transition may looks tough, but refer to the text above and push forward.
+
+You should keep working on being technically relevant, without competing with your team or letting your ego go. You must give and ask for feedback and remember that you are accountable for both.
+
+To be actively learning is important to relate to what your team does. You can be the person they go to get consultation and even not being actively developing software you can coach them to find out the answer or call out silly requirements. 
+
+Be calm in the face of adversity — Don't Panic. You are the person that can't panic, even if your stomach is churning, you feel your legs weak, remember there are people that look up to you for guidance and solace. So calm down, breath and move on.
+
+You must constantly (I'd say each 6/12 months or so) evaluate if it is worth for you to keep doing what you do in the place you are working. There are plenty of good opportunities around. You will survive.
+
+There is no running out of fights here if you believe your heart is in the right place about the company, the team and your career. What you gonna do?
+
+And now, let's go for The Plan !
+
+### The plan
 
 Before starting the new gig, even if the only time you have is the weekend before starting your new position, put a plan together. It doesn't need to be complex but it has to have a path to start, which you can go back after a full day and recognise. 
 
@@ -37,13 +273,13 @@ I created a slide deck to help organise the plan. It has high level questions ba
 
 Ideally you will make notes after each section or subsection to revisit later or measure. The plan is to learn. There are advices throughout the text that you may or may not follow but use it to set up your baseline. The order is sugggested based on information you need to learn for each step.
 
-#### Learning and Measuring
+### Learning and Measuring
 
 So, how do you say something is good or bad ? How do you demonstrate things that are obvious to you but not so obvious to the person or group you are talking to ? Apart from telepathy you can use known baselines and metrics from companies that you can relate and derive them. After some time repeating "we did that in company X or Y" gets tired as you are not there anymore, your team does not works there. So having a simple deriving path help other people learn what you know, which is the first step to influence them.
 
 I've grouped what concerns me when I want to make an assessment in four sections. For each one of the sections I've put together baseline metrics or concepts. Some are obvious as smarter people came before us and studied them, some of them require some imagination. 
 
-##### Engineering Delivery Metrics
+#### Engineering Delivery Metrics
 
 The first four metrics I've borrowed from the Accelerate book. If you have not read it, you should. It is a book based on research and as good research you will find a good taxonomy and baseline. [Accelerate | by Nicole Forsgren, Jez Humble & Gene Kim](https://itrevolution.com/book/accelerate/).
 
@@ -60,7 +296,7 @@ I've added a metric of empathy to the folks that get the first call at your comp
 
 	* Incidents count per week
 
-This is an important reality check on resourcing and prioritising within teams, and often overlooked as "Stakeholder managemente issues". A lot of shadow work by your team is done to mitigate or compensate for this. Looking at change failure rate prevents its increase but having a strong foothold on incidents helps understand if all that you are doing is everything that should be done. 
+This is an important reality check on resourcing and prioritising within teams, and often overlooked as "Stakeholder management issues". A lot of shadow work by your team is done to mitigate or compensate for this. Looking at change failure rate prevents its increase but having a strong foothold on incidents helps understand if all that you are doing is everything that should be done. 
 
 If you hear that your organisation was "Sales Oriented" it becomes important as a way to gauge side effects of technical debt. A "sales request to feature" flow is no different than the "product feature request to code" flow if you don't take in account how your systems break and in which way they affect your customer life. 
 
@@ -69,7 +305,7 @@ I've also added some metrics for my friends at the CFO office, under the umbrell
 	* Monthly/yearly cloud expenses total and per product line
 	* Licenses costs
 	* Support cost 
-	* Ammount of discounts due to enterprise deals and negotiations
+	* Amount of discounts due to enterprise deals and negotiations
 
 "We are just burning money, no worries about it, we're a startup" or "We are spending on cloud to save engineering time" concepts are amazingly misplaced and naive. Money only buys velocity if you are buying a racing car. Money buys tools to build things and money doesn't likes to be thrown around. You may get a free pass for a while spending and not knowing where the truth lies these truisms will hurt. That pass won't last forever. 
 
@@ -77,19 +313,19 @@ Strive to know how much you spend, where are the low hanging fruit and how to fe
 
 I've lost count of times spent having to work overtime to reduce unexpected cloud billing or fix a big money leak found too late. Also lost sight of how much I worked double time to build yearly budgets in the last minute when someone high up learned this is the company's 2nd or 3rd biggest expense. Having a way to see it quickly and to see a pattern helps on both.
 
-##### Team Metrics
+#### Team Metrics
 
 Here the term "metrics" is loose: look for and quantify how the team is working now, without prejudice or trying to change it. Map it well to try to find why it is like this, and what is the measure of success of each decision.
 
-###### How does the current organisation work ?
+##### How does the current organisation work ?
 
 You will face a number of terms that may be familiar but are used with different meanings within the company. Teams, squads, tribes, chapters, guilds, teams (again for the sake of sanity), business units, great areas etc. Learn them, connect with the language. Build a glossary. 
 
-###### How many unhealthy teams: no manager, stretched managers, no product manager
+##### How many unhealthy teams: no manager, stretched managers, no product manager
 
 It is important to map where people don't want to work (the haunted teams), where are the heroes, where the real work happens and the territories. Yes territories, you may question why Team A has 30 people, all looking fresh and nice and why Team B have 2 disgruntled engineers. Learn this, it may be the reason you were brought in. By stretched managers I mean teams that should be split of managers accumulating teams.
 
-###### Work distribution issues: work that should be done elsewhere, duplicated work, prioritisation
+##### Work distribution issues: work that should be done elsewhere, duplicated work, prioritisation
 
 The side-effect of siloed organisations (teams, tribes, squads) is that one way out of an argument is to duplicate work. This may be a strength or as most of the times, waste of energy. Look for work done within a tech team and/or by a product manager that should be automated or executed elsewhere. Mark it. Also look how prioritisation and escalation works. 
 
@@ -97,11 +333,11 @@ Who or which group call the shots ? How people know what to do. Look closely for
 
 Try to understand if escalations are done through "old friends" or is methodical. By escalations I mean any decision that could not be decided by peers or stakeholders and go up the chain to the CEO or other executive. If escalations is how most of things are decided and can undermine the belief on any prioritisation process.
 
-###### What is the priority definition between engineering and products ?
+##### What is the priority definition between engineering and products ?
 
 Is there a set of rules for deciding what to do ? Are there teams that feel "priority changes every time"? Have you heard "I am no people manager, just X manager" ? Is there a good positive tension between engineering and product people to decide what to do ? Does product work sounds like project management and engineering as body shop ? Take a note, you may need to figure out a standard prioritisation process for everyone. A good team is a team where everyone has a voice. 
 
-###### What is the decision making process (RFC, committee, go horse)? 
+##### What is the decision making process (RFC, committee, go horse)? 
 
 Look for documents as PRD (Product Requirements Document), RFC (request for comment), definitions on PR review (pull request review). Is there a decision group in place ? How have the team decided to migrate from databases or cloud providers ? Was it generalised as "top down" ? It is healthy for an engineering team to create a way to discuss and document their decisions. It is good for training and onboarding. 
 
@@ -109,7 +345,7 @@ Look for postmortems. It is good to remember why we never use web scale database
 
 Figure it out if there is a small group of people that make these calls — all engineers should do it. Architecture groups and boards are a thing of the past, no smart engineer wants to work against a spec sheet. Use their seniority to train and gather consensus on why it is better to stick to 2 or 3 stacks than 200 semi-functional languages that only few people heard about. Help people improve their arguments and document them.
 
-###### Are there clear levelling for ICs(Individual contributors) and Managers ?
+##### Are there clear leveling for ICs(Individual contributors) and Managers ?
 
 First order of the day: how do you evaluate, give feedback and help your team to grow ? Look for you company's career ladder, if you find none — it is one of the things you need to kickstart right away. You can get inspired at engineering ladders and levels.fyi. I've built an engineering/manager ladder based on what I've been using. 
 
@@ -119,12 +355,12 @@ Look for performance reviews and any document for your direct reports. No perfor
 
 No team will be healthy without knowing where they and, where they will go and without candid feedback about their performance and growth. Also remember there is no Y career — you need both careers (management and engineering) and a good write up on how the pendulum works there. Look at [Engineering Ladders](http://www.engineeringladders.com/) for existing ladders and [Levels.fyi](https://levels.fyi) for how they compare across companies.
 
-##### HR and Engineering Organisation insights
+#### HR and Engineering Organisation insights
 
 The questions below are to give you an insight of how HR interacts with the engineering team. There are companies where both teams seem to be at war and others where they work well. There is information that you will only learn in a neutral way by collaborating with your HR partner. 
 Most of what you will have to work with people in your team you can only solve with them, for expertise and safety sake. You will find plenty of corporate disasters that could be avoided just by looping someone more experienced from HR to help or lead a conversation.
 
-###### How is hiring organised ? Is everyone helping ? What are the goals ?
+##### How is hiring organised ? Is everyone helping ? What are the goals ?
 
 Hiring is everyone's job and highest priority. No "I can't interview because I'm putting out these fires" or "I can't talk to you because you are always on interviews". A lot of problems in engineering are due to poorly staffed teams. Work on it. If you don't know where to start, use my template:
 
@@ -134,23 +370,23 @@ Make it so at least 3 people interview a candidate, one of them someone with goo
 
 It is easy once you start organising a basic interview guideline and a process where you ensure no biases are applied — it can use a daily or weekly committee to quickly assess the notes you took while interviewing. You take notes when you interview someone, right ? 
 
-###### Are there hidden functions ? (Infosec done by a SRE, prioritisation done by committees) ?
+##### Are there hidden functions ? (Infosec done by a SRE, prioritisation done by committees) ?
 
 Understaffed teams have a reason: no headcount, no leadership, reorgs, acquisitions, bad leadership. You have to learn about them and the whys. Prioritisation done by committees appear here because that's the tool of micromanagers. Decisions require owners, the best teams own their decisions. The mediocre ones wait on external guidelines and quality of work suffer. You want to know about that. 
 
-###### Any functions/procedures depend on a single individual ? (e.g. the person that knows legacy code or how to deploy, or point of contact to solve an issue)
+##### Any functions/procedures depend on a single individual ? (e.g. the person that knows legacy code or how to deploy, or point of contact to solve an issue)
 
 No heroes, no bus factor should be allowed for the sake of people's mental health. If you have them, HR can tell you the reason: new engineers only go for the nice frontend project, product is being discontinued, no one can put up to work with this or that person and so on. Something is up and you wanna know upfront.
 
-###### Any team missing ? Infosec, SRE or Platform infrastructure, Engineering tools, Data engineering, Data Science, Product Engineering, Digital channels, Notifications teams ? The big rewrite team ? The team that should manage the legacy while the rewrite team is doing their thing ?
+##### Any team missing ? Infosec, SRE or Platform infrastructure, Engineering tools, Data engineering, Data Science, Product Engineering, Digital channels, Notifications teams ? The big rewrite team ? The team that should manage the legacy while the rewrite team is doing their thing ?
 
 Staffing decisions again, you need context and history. Managers tend to leave a trail of destruction behind when they are under pressure and decide to leave. If you are joining a company or team because of that, look further.
 
-###### Is remote work allowed ? Is it successful ?
+##### Is remote work allowed ? Is it successful ?
 
 How do you do it, how do you measure it. Tip: if remote work doesn't work for you, look up the chain of command. A good manager is required for remote team to be successful — good in the sense of communicating well, planning ahead and knowing how to organise team rituals.
 
-##### Operations
+#### Operations
 
 I'll use "Operations" as a generic fallback for day to day stuff that I have not covered above or covered only the metrics. These are questions you ask your peers outside of your team, your boss and if you have the chance, the person you are filling in for. 
 
@@ -178,38 +414,38 @@ How does the company deals with a misplaced incentive as someone focusing on wha
 It is important for you to understand how the team is conditioned. These incentives have to be aligned with the prioritisation process that helps everyone. 
 
 
-#### Challenges
+### Challenges
 
 Joining an existing team is hard, especially if it is during or after a reorganisation. Reorganisations, or reorgs, are just a tool. Sometimes they are seen as punitive or meaningless but they are just a way of trying to tame the uncertainty of how a team should organise to achieve its objective. 
 
 Common questions are "Where will rejection come from ?", "What failure looks like ?", "Where are the leverages ?" and "When will the next reorg happen?"
 
-##### How they will react to a new structure or a new high level executive ?
+#### How the team will react to a new structure or a new high level executive ?
 One of the weirdest experiences you can have is to be hired and not have a defined team or role. This is when an executive is crying for help, hires a senior executive but forgets that if he can't deal with what is happening now, probably a new executive will fail. 
 
 It comes as a surprise to most CTOs and higher ups that the team is not "with them" all the time and are struggling for power — the one he delegated to a new comer. 
 This is why gathering knowledge comes before defining strategies to meet challenges. Once you have clear data and objectives, personal reactions are just that: personal reactions. 
 
-##### What “Lead by example” means in the company’s context ?
+#### What “Lead by example” means in the company’s context ?
 
 Leading by example varies in intensity and subject. What does not work is to hire managers that don't know what the team does. "I take care of humans and I have someone to take care of technology" and "I deal with the boring business and HR stuff while you get your fingers dirt coding" are not smart things to say. Fortunately these managers are going away and you are stepping in. 
 
 Look out for starting small and simple, pair up with engineers. Set up your workstation and strive to push code out, a bug fix. Fail at that, but try to feel what your team feels when they are getting things done. Be part of rituals, planning and discussion. Tie break and top down, deal with the push back and strike new dialog venues. 
 
-##### Which public forums the team have ? How can they be heard ? (all hands, town halls, teams gathering)
+#### Which public forums the team have ? How can they be heard ? (all hands, town halls, teams gathering)
 
 There are always grapevines. People will be talking about you, about what you do and so on. But you need official channels, clear communication and transparency. Over time they get stronger and people start looking up for them. Don't try to shut down channels, build better and interesting ones.
 
 Transparency is not abuse. On public forums, anonymous questions are good but for the sake of the team they should be respectful and naturally curious. Look up for the signal/noise ratio among hard questions. Take them upfront. If you feel you are not good enough to answer them, take a note, put them in a doc, answer later on and publish for everyone's consumption. Leave no question asked but repeated, silly and purposefully aggressive. 
 
-##### Unclear dotted lines: teams that have no clear boundaries.
+#### Unclear dotted lines: teams that have no clear boundaries.
 
 By influence or legacy a team can have many influence flows. First hires, the CTO-turned-engineer, the new director of engineering that worked there long before, the CTO that was fired, the product manager that migrated from engineering are some. 
 
 These are noisy but no noisier than having teams with split management: sales integration, marketing technology, operational squads. Look for having a clear objective and reporting line within your team. If this is not possible, they should not be there. At the end of the day, accountability is hard to be split across managers.
 
 
-#### Org Structure
+### Org Structure
 
 Every company you go nowadays you see a variation of the "Spotify Model". I won't even link because there are many posts around and I'm not sure even Spotify uses it anymore. The thing is that as it happened with Scrum, it layered roles and organisations over existing positions and teams.
 
@@ -217,7 +453,7 @@ Among the many permutations that create the illusion of control you will find yo
 
 Looking to the average implementation of this model:
 
-##### Multidisciplinary tribes, layered teams 
+#### Multidisciplinary tribes, layered teams 
 
 Each and every team/squad/tribe requires individuals of all chapters (disciplines): product, engineering, data, ops, finance. This started the trend of solid and dotted lines based on the concept that to make things easier and practical everyone should work closely. Solid lines are who manages you, dotted who manages your work. 
 
@@ -225,21 +461,21 @@ This also creates some confusion and loosening accountability up until the gener
 
 Abstract all that and connect to your abstraction of choice. Follow the money: once you know productivity and prioritisation flows plus the metrics that ensure a healthy engineering org, how do you influence it ? If it all goes away, how would you reorganise your team ? How you deal with conflicts across "tribes" ?
 
-###### Pros: one stop shop for business verticals, quick reaction time to day to day business needs
+##### Pros: one stop shop for business verticals, quick reaction time to day to day business needs
 
 Emulating a small company you can move fast and absorb local optimisation and debts. If the business changes a lot you end up having a lot of agility to tend these changes. 
 
-###### Cons: amplify the cost of simple decisions, as business grows it requires more high level arbitration
+##### Cons: amplify the cost of simple decisions, as business grows it requires more high level arbitration
 
 Matrix reports and their decision are a thing — a head of product for the company may not be happy if they can't do portfolio management. A CTO may not be happy if they can't do tech visions and engineering. A lot of intra tribe decisions trickle out to the origin organisations. 
 
 Cross tribe work is always painful. A local priority always takes over a distributed priority — "Hurr the CEO is the tribe master and can fix it etc" — remember what real tribes did in the past when they met: Killed each other, conquered territories based on not knowing each other language. Be mindful of names and behaviours. 
 
-##### Can’t prioritise and execute cross business or engineering tasks
+#### Can’t prioritise and execute cross business or engineering tasks
 
 Shared efforts are hard to push. Some decisions coming from Legal, Finance and Infrastructure have goals and directions that can not always be consensus driven as costs management, undifferentiated lifting, standardisation, compliance and due diligences. These are usually overseen and done in a hurry if it hurts the business.
 
-##### Legacy product and code management is hard
+#### Legacy product and code management is hard
 
 Organisations that were not born this way (most if not all of them) may have shared codebase and processes. Who owns them prior to a big micro service split and rewrite ? Look up for teams called "ACME", "ATLAS", "PHOENIX" or "SKUNKWORKS" that "takes care of what no one is looking for"
 
@@ -265,27 +501,27 @@ Authentication, API management, InfoSec, Notification service, Digital channels 
 
 These efforts benefit teams outside of technology or tribes and they are benefited from a solid strategy and operational efficiency. Undifferentiated lifting should be done once and for all.
 
-#### Delivery
+### Delivery
 I've mentioned the Accelerate book before and it provides a good framework to evaluate delivery. When I say delivery I mean the mix of running your systems and all activities connected to it, including building and shipping code and how it affects your customers. 
 
 Back in the day everything was slow and manual but after the wide adoption of cloud providers and disciplines as Devops, SRE and Production Engineering the effort of engineers in these teams are set to simplify operations through automation. 
 
-###### Operate based on metrics
+#### Operate based on metrics
 
 Adopt an observability tool and go beyond CPU/Disk/Latency metrics. Collect meaningful business metrics and operate from them. They should guide your decision as each platform presents multiple base metrics but few are not about something redundant (servers, disks, network).
 
-###### Invest on tooling for automation, deployment and metrics collection
+#### Invest on tooling for automation, deployment and metrics collection
 
 A code template tool, abstraction to make engineering work secure and repeatable, automated deployment and monitoring are expensive but once built they take operations to a new level. They get heavy lifting out of the way.
 
-###### Enable accessible CD through GitOps
+#### Enable accessible CD through GitOps
 
 Deploys should not be rituals. You need a way to track them but they should be done multiple times a day in a way that you can assess if prioritisation, complexity or lack of purpose is the problem. Not access, arcane knowledge or risky environments. Having them integrated on how you build code is key. When code is merged, it goes to production. No special control panels. 
 
 Look for at least 70% of infra/deploys to be uniform, leave corner cases for data and mobile. Invest on short feature deployment cycles with product prioritisation (lower lead time). Implement "You build You Run" in an standard way
 Simplify your stack — good engineering is boring. Avoid virtue signalling when building blocks: functional language, NoSQL databases, niche architectures are all nicer when they come naturally. 
 
-##### Cost Management
+#### Cost Management
 
 Investments in good infrastructure engineering yield good cost management. 
 
@@ -307,7 +543,7 @@ Monitor egress and ingress traffic, cross region and hidden Cloud costs. For ins
 
 I've seen huge bills due to non mapped traffic through Managed NAT Gateways and poorly set S3 buckets. Same for EKS you can hurt yourself with cross zone traffic. Loose disk snapshots and images, unused load balancers and gateways are a source of hidden cost. Keep an eye on them, tidy up.
 
-##### Visibility and Observability
+#### Visibility and Observability
 
 I've mentioned adopting observability, the "You build, You Run" model but the last part missing is to drive incident management processes, automation to protect delivery. We have a tendency to slow down when quality suffers. But quality is subjective. 
 
@@ -318,7 +554,7 @@ It is easy to default to creating bureaucratic structures when it is hard to mea
 	* Get involved in incidents, be there, help coordinate, just watch, help write postmortems. Lead by example, and in this context the example is simple.
 	* Distribute the metric and measurement efforts to all teams, with reports published weekly by them. Start your big meetings with hand picked metrics review. The good and bad ones. Work on the bad ones, rinse and repeat.
 
-##### Infosec
+#### Infosec
 
 Being on the losing end of a leak or security incident hurts. You are not alone. It is not if, it is when. Working with security has a double burden: it is always critical and you have to deal with the worst kind of initiative all around. Be mindful of your mental health all the times.
 
@@ -360,7 +596,7 @@ If you don't have Infosec Metrics, start with two metrics:
 
 These are relevant to engineers, product managers and people outside of your organisation. At some point, interrupting the team to fix security findings will appear in the top 5 reasons why a new feature was not delivered and it is good to have history.
 
-##### Data
+#### Data
 
 You will probably manage a variety of Data teams combinations. Sometimes they will be close together, sometimes they will be far apart. It is important to note that companies will sometimes start something outside of the product/engineering team to do data science as an accelerator or valuation booster, not necessarily as part of the product. 
 
@@ -401,11 +637,11 @@ Avoid:
 	* Building a log pipeline (use ELK, use Athena/S3)
 	* Teams too far apart or disconnected
 
-#### Closing advices
+### Closing advices
 
 Is this a book ? Not yet. Not the authoritative source for what you should do. I've put down what helped me and not when it helped me, because I tried to abstract situations, companies and people.
 
-When building or reorganising teams, keep the span of control on 5 to 8 people for each manager, including you. Opt for line managers with small teams and clear objective and planning rituals that you can help instead of an overly hierarchical org. Engineering managers should support line managers, this is their most important job (a close) second only to hiring. 
+When building or reorganizing teams, keep the span of control on 5 to 8 people for each manager, including you. Opt for line managers with small teams and clear objective and planning rituals that you can help instead of an overly hierarchical org. Engineering managers should support line managers, this is their most important job (a close) second only to hiring. 
 
 Advocate for standard stacks and technology. Not the one you love, but the ones that work well for the team. Make them accountable for delivery. 
 
