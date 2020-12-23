@@ -1,21 +1,5 @@
 # The CTO Field Guide (for the first 90 days)
 
-This short ebook came from a post with a big title. Actually many posts. I've written many pieces of it through the last years and decided to join them. 
-
-I wanted to get your attention. When I put CTO in the title, I meant a tech lead, engineering manager, director of engineering, VP of Engineering in any sized organization —  anyone that is joining a new company and figuring out where to start. Believe me, the difference is the scale.
-
-Not only that — I also want to reach the group of people that got promoted (a long waited promotion or the "you, yes you. step in as engineering manager" kind of promotion).
-
-And why 90 days ? It seems a good time measure. Honestly you won't have the time.
-
-I've been helping startup CTOs and other tech leads as a mentor for some years, mostly learning with them and helping where I can. I took notes. A lot of them. I also keep diaries about my own professional experiences that I review from time to time.
-
-#### How to read it
-
-The section from Introduction to TL;DR is for you, personally, specially if you are moving to the management track. The section from The Plan to the end has what you need to know to get prepared.  
-
-Good reading !
-
 ## Table of contents
 
   * [Introduction](#introduction)
@@ -28,21 +12,43 @@ Good reading !
   * [Org structure](#org-structure)
   * [Delivery](#delivery)
   * [Closing advices](#closing-advices)
-            
 
-#### Introduction
 
-I've learned a lot about myself writing down diaries for each company I worked for. We grow used to look only for stellar success and fear big failures but there is a lot in between. 
+### Introduction
 
-What struck me most is how starting is hard. There are so many variables that it is unfair to think you will be able to cover most of them. And when you start, you are in a hurry to show some service, to help and succeed, which mounts up the pressure.
+This ebook was born from a post with a big title. Actually many posts that I've written through the last years and decided to join them. I usually post some pieces here and there, send to friends and let it get old before revisiting.
 
-So I put together what I consider a fair sequence to learn and act as a guide for tech leadership. As it is based on my observations and experience, it is an opinionated guide. It is heavily based on my perspective and beliefs through these experiences. 
+Companies we have today have different meaning for the CTO role. Sometimes is broad, sometimes is local in a business unit or dressed as "Head of X". In general I mean fulfilling a tech leadership role. You will find it named as the tech lead, engineering manager, director of engineering, VP of Engineering or CTO. 
 
-I've also added some learnings from a post about my [career change](https://medium.com/@gleicon/move-fast-and-intentionally-ignore-a-couple-of-things-8731727ad845). 
+The timing I will talk about is joining a new company or getting promoted. The situation I want to talk about is figuring out where to start.
 
-Every change or promotion is a new start and there are two important aspects: you and what you will be doing for the next years. 
+And why 90 days ? It seems a good time measure. Honestly you won't have the time. Things go so fast that sometimes it looks like you are always late. But it is a good time window to look back. Companies pace their lives in quarters.
 
-Before anything else, we will talk about you, your career and then we will work on the starting plan ([click here](#the-plan) if you want to jump straight to that).
+I've been helping startup CTOs and other tech leads as a mentor for some years, mostly learning with them and helping where I can. I took notes. A lot of them. I also keep diaries about my own professional experiences that I review from time to time.
+
+#### Why me ?
+
+My learning tools are writing down diaries for each company I worked for and looking how other people behave. I've had the luck of having great mentors and not so good managers that provided me plenty of opportunities.
+
+When we are growing, we are used to look only for stellar success and fear big failures but there is a lot in between. 
+
+What struck me most is how starting is hard, even if you started many times. There are so many variables that it is unfair to think you will be able to cover most of them. And when you start, you are in a hurry to show some service, to help and succeed, which mounts up the pressure.
+
+Every change or promotion is a new start and there are two important aspects: you and what you will be doing for the next years. There are schools of taking it easy, failing fast, delivering faster but in the end you will only find out what you need to do while doing it. 
+
+I've started a lot. And also helped other people to start - I've been mentoring CTOs for tech startups for 6 years besides working at my day job. The problems are not so different but the people are. And the space they have to attack these issues too. When leadership is needed, having a minimally structured plan goes a long way.
+
+#### How to read it
+
+I've divided this ebook in two parts. One for you, to consider your career and look at situations that you may get caught personally while developing or adapting your style. It goes from this Introduction to [TL;DR](#tl-dr). 
+
+After that we talk about how to start, where to look for and what to measure. The section from The Plan to the end has what you need to know to get prepared. This is the real field guide, where you can fill the spaces and get going. You can jump directly to [The Plan](#the-plan). 
+
+This is an opinionated guide because... well, they are my opinions and experiences.
+
+Good reading !
+
+
 
 ### Career change
 
