@@ -3,8 +3,9 @@
 ## Table of contents
 
   * [Introduction](#introduction)
-  * [Career change](#career-change) 
-  * [Top downs](#top-downs)
+  * [Engineering vs Management](#engineering-vs-management)
+  * [Know your team](#know-your-team)
+  * [Decisions](#decisions)
   * [TL;DR](#tl;dr)  
   * [The plan](#the-plan)    
   * [Learning and Measuring](#learning-and-measuring)
@@ -40,7 +41,7 @@ I've started a lot. And also helped other people to start - I've been mentoring 
 
 #### How to read it
 
-I've divided this ebook in two parts. One for you, to consider your career and look at situations that you may get caught personally while developing or adapting your style. It goes from this Introduction to [TL;DR](#tl-dr). 
+I've divided this ebook in two parts. One for you, to consider your career and look at situations that you may get caught personally while developing or adapting your style. It goes from this Introduction to [TL;DR](#tl-dr). These chapters are personal and based on observations while in transition. 
 
 After that we talk about how to start, where to look for and what to measure. The section from The Plan to the end has what you need to know to get prepared. This is the real field guide, where you can fill the spaces and get going. You can jump directly to [The Plan](#the-plan). 
 
@@ -50,9 +51,7 @@ Good reading !
 
 
 
-### Career change
-
-#### Engineering versus Management
+### Engineering versus Management
 
 I can't say that management was a planned path to me — it was a transition I did. After some time in my career, I thought it would be interesting to try my hand in management after watching other managers results. I figured it could be the path to fix what made me unhappy about my growth. That genius moment didn't came fast or easy tho.
 
@@ -88,31 +87,31 @@ After the aforementioned "I know how to do it" moment, I committed to myself tha
 
 #### Saying No and Adapting
 
-The details of how I got my opportunity still feels weird to me, suffice to say that it was pure luck on my part and being in the right moment at the right time. The timing was that the company I was working with was failing and the managers there leaving or being fired and someone was needed to help a team that worked with a legacy no one wanted to touch. As I said I've approached it trying to avoid too many mistakes.
+The timing of my career change was that the company I was working with was doing great financially but having problems on engineering and product. The managers where leaving or being fired and at some point someone was needed to help a team that worked with a legacy no one wanted to touch. I've approached it trying to avoid too many mistakes but eager to learn what would be my new career. 
 
 Turns out I did a lot of them. And while I was learning, my responsibilities increased. I started small (a 4 people team) and quickly saw myself managing half of the company tech team for reasons I should put in another post. **One of the most common mistakes is not learning to say "No" soon enough**.
 
+The only advice I had was **"be careful to not back into your comfort zone"** meaning I shouldn't not compete with the team by coding or making their decisions when I faced some uncomfortable situation. And I had them, I took some time to "read the room" and understand the chaos and power plays. Luckily coming from a technical background helped me a lot on the oncoming firefighting.
+
 Over time the people I managed changed, naturally as the people joining companies changed too. Furthermore my management style had to **adapt**, in communication and expectations.
 
-**Adapting** meant trying to figure out how my team expectations changed. A generation ago the main concern was to lose your job, today companies have a hard time recruiting because good technical people don't want to have a job for a long time without meaningful space to have an impact. 
-
-My first management experience was on a team with everyone mostly my age, my last one was with an average ten-years younger. It is impossible to come across with the same arguments for such a demographic range without sounding silly and inefficient.
+**Adapting** meant trying to figure out how my team expectations changed. A generation ago the main concern was to lose your job, today companies have a hard time recruiting because good technical people don't want to have a job for a long time without meaningful space to have an impact. Around the same time getting straight tickets of what to do was a plus and now it is unthinkable to not involve your team on prioritisation. Same for tech stack and infrastructure.
 
 I had the luck of working with the best people around and see a lot of them becoming managers, tech leads, working abroad and competing with good advantage to people from countries that put more emphasis in tech than Brazil. That makes me proud and my life was easier because of them.
 
+### Know your team
+
 **Knowing what your team does** makes your life easy. Looks like a weird thing to say, but answer this: if you had to start from where someone of your team is working today, would you know how hard is to do their job ? Would you be able to deliver, ask for help, convince your peers , burn the midnight oil or get back to management with a convincing argument about doing or not doing it ?
 
-[**Harvard Business Review published an article based on a study that says "If your boss could do your job, You are more likely to be happier at work"](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work)** . It also says that the common wisdom of promoting people from the team to management positions being a bad thing* is wrong*. It isn't easy for the new manager, but it is not a bad thing to let someone that has tech experience to manage the team. It also helps shoot down the myth of the Y career. Leadership is a natural progression and can be learned. **Leadership emerges**.
+[**Harvard Business Review published an article based on a study that says "If your boss could do your job, You are more likely to be happier at work"](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work)** . It also states that the common wisdom of promoting people from the team to management positions being a bad thing **is wrong**. Life isn't easy for any new manager, but it is not a bad thing to let someone that has tech experience to try and manage a small team, learn and go from there. It also helps shoot down the myth of the Y career. Leadership is a natural progression and can be learned. 
 
-#### Know your team
+I also learned that **Leadership emerges**. Pay attention to who you work with, invest time helping grow new leaders. An imposed leadership will rarely work with a team.
 
 Regardless of how much importance is put in tech teams in a company, people are their most powerful asset. This sounds cheesy, but both in companies that hire 100s of developers and tech is seem as a commodity than for companies that have a small team which holds the company's life in their hands, people make the difference.
 
-You know that when you work as a tech person in the team, you see things from a different angle than when you are managing a team. Especially when 2 weeks after you arrive you find out they are leaving due for any reason: a new company came up paying more, the former manager messed up, a key person left or excess work was put over them. 
+You know that when you work as a tech contributor in the team, you see things from a different angle than when you are managing a team. Especially when 2 weeks after you arrive you find out they are leaving due for any reason: a new company came up paying more, the former manager messed up, a key person left or excess work was put over them. 
 
-It happened to me in my first experience. I didn't knew what to do, but a friend told me to start hiring. Tough luck if it happens to you but do not lose hope, it happens. 
-
-You will have plenty of opportunities to mess up, but if you are just getting there, this one wasn’t your fault. Learn to hire (go speak in conferences, abuse the hallway track, pay lunches/coffee/dinner, open your company to communities, reach out to friends), learn to fire.
+When it happened to me, I didn't knew what to do, but a friend told me to start hiring. Tough luck if it happens to you but do not lose hope, it happens. You will have plenty of opportunities to mess up, but if you are just getting there, this one wasn’t your fault. 
 
 People have to feel **purpose** to perform well. They should feel that they belong to something and feel that whoever is leading supports and works to keep them safe. Safe is not "treating people like children" but safe as in "if you own it we have your back". Safety in terms of expressing what they think, support when trying and failing, getting rid of jerks and coaching everyone to be a potential leader.
 
@@ -121,6 +120,14 @@ People have to feel **purpose** to perform well. They should feel that they belo
 #### Team culture
 
 The team culture is made from everyone's contribution and it is hard to see at first how you influence it as a leader and how each of the personalities plays into it. But it is not hard to spot aggressors. I want to point two: The **brilliant jerks** and **tech dramas**.
+
+##### Hiring (and firing)
+
+Getting involved on recruiting, interviewing and sending offers changed my point of view on retention in these situations. **You have to be always recruiting**, these pipelines are hard to warm up and if you don't do that often by the time you remember them you it is an emergency. 
+
+Learn to recruit and hire (go speak in conferences, abuse the hallway track, pay lunches/coffee/dinner, open your company to communities, reach out to friends). Also, very important: learn to fire. It is tough, but important. Specially jerks (we will discuss them below).
+
+Hiring depends a lot of networking, no HR team can do it alone. And it is a network effect. You hire good people, more good people come. But also you should start developing your current team and having them to speak, collaborate with OpenSource projects and the community. That that makes for a stronger attractor and helps you balance your culture mixing what was created at your company with what new people bring that is positive.
 
 ##### Brilliant Jerks
 
@@ -133,17 +140,17 @@ This interview has so much more content and actionable points than just the titl
 That was later rewritten and incorporated in [their culture manual](https://jobs.netflix.com/culture) with a similar phrasing and more context.
 > On a dream team, there are no “brilliant jerks.” The cost to teamwork is just too high. Our view is that brilliant people are also capable of decent human interactions, and we insist upon that. When highly capable people work together in a collaborative context, they inspire each other to be more creative, more productive and ultimately more successful as a team than they could be as a collection of individuals.
 
-"Brilliant jerks" by rule are not brilliant and take a lot of time and energy to manage from everyone, especially their peers. It is just not worth the time everyone spends and frankly not worth the production. I am yet to see a productive person cause impact without the minimal people skills. And frankly, most of the time they are not brilliant. 
+"Brilliant jerks" by rule are not brilliant and take a lot of time and energy to manage from everyone, especially their peers. It is just not worth the time everyone spends and frankly not worth the production. I am yet to see a productive person cause positive impact without the minimal people skills. 
 
-I decided to not put up with this kind of personality early on, after a lot of frustration and what I perceived as lack of support. Interesting enough, once I got a feedback that I behaved like a jerk in certain situations, and looking to it I found that I was cascading past behaviours. I've made a decision to destroy the myth that this is the default behaviour for tech people wherever I worked, starting by myself.
+This works in both ways — when learning up your craft, depending on your personality you may converge to an aggressive style specially if cornered under pressure. Exercising empathy you can detect if you are falling in this trap before tagging others as jerks. This behavior can come from any role: Engineers, Product Managers, Engineering Managers and executives. 
 
-This works in both ways — when learning up your craft, depending on your personality you may converge to an aggressive style specially if cornered under pressure. Exercising empathy you can detect if you are falling in this trap before tagging others as jerks. This can come from any role: Engineers, Product Managers, Engineering Managers and executives.
+To be fair we all were perceived as a difficult person at some point. Feedback is important to change but also don't hesitate to look for help.
 
 You don't need to cuddle and be a clown all the time but learn some people skills. It is very important to sought for help, having the support of a trained psychologist or mentor makes all the difference.
 
 ##### Tech Dramas
 
-On small companies and teams CI/CD, monitoring, automation, processes, choice of programming language and code review/pair programming may be the first things you have to decide upon. Some of them for due diligence and the rest mainly to put out the week's drama. You'll always have the tension between whatever kind of Dev and Ops you implement and at this stage they come out louder as a scapegoat.
+When small companies and teams start growing, things like CI/CD, monitoring, automation, processes, choice of programming language and code review/pair programming will require a decision. Some of them for due diligence and the rest mainly to put out the week's drama. You'll always have the tension between whatever kind of Dev and Ops you implement and at this stage they come out louder as a scapegoat.
 
 As the teams advances in maturity you'll see product management and tech culture more defined, the adjustment of the importance of tech in the org, the need for hiring and career plans.
 
@@ -151,9 +158,9 @@ After your company gets bigger these problems grow exponentially and you start t
 
 Unhappiness, whining and rumours are normal. As soon as you acknowledge they exist and to some extent they are normal, the best. Use your energy to build bridges and channels that this information can get to you after being filtered by the good sense of your team mates. 
 
-Mondays are the worst day to take actions over this as the mood usually is not good (cut the bs about not loving Mondays being a bad sign).
+Mondays are the worst day to take actions over this as the mood usually is not good (cut the bullshit about not loving Mondays being a bad sign, everyone is entitled to have their bad day of choice).
 
-### Top downs
+### Decisions
 
 One of the hardest things to do is to explain decisions. Specially when the mood is that "anything outside of the team is a Top Down". Top downs are sort of a ghost haunting teams, which is hard to chase. But they don't exist most of the time - what exists is an unbalance on one of the sides.
 
