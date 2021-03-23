@@ -17,27 +17,32 @@
 
 ### Introduction
 
-This ebook was born from a post with a big title. Actually many posts that I've written through the last years and decided to join them. I usually post some pieces here and there, send to friends and let it get old before revisiting.
+This ebook was created from a post with a big title. Actually many posts that I've written through the last years. I usually post some pieces here and there, send to friends and let them get old before revisiting.
 
-Companies we have today have different meaning for the CTO role. Sometimes is broad, sometimes is local in a business unit or dressed as "Head of X". In general I mean fulfilling a tech leadership role. You will find it named as the tech lead, engineering manager, director of engineering, VP of Engineering or CTO. 
+Companies we have today have different meaning for the CTO role. Indeed for any technical leadership. 
 
-The timing I will talk about is joining a new company or getting promoted. The situation I want to talk about is figuring out where to start.
+Sometimes it is a broad role, other times is per business unit or marketed as "Head of X". You will find it named as the tech lead, engineering manager, director of engineering, VP of Engineering or CTO. In general it means someone is fulfilling a tech leadership role.
+
+I wanted to define it because there are many combinations and measures of success, depending on where this role is positioned and its relationship with the company.
+
+The timing I will talk about in this ebook is when joining a new company or getting promoted. The situation I want to talk about is figuring out where to start. I choose it because during my professional life and mentoring sessions this is where most technical leadership struggles to get momentum.
 
 And why 90 days ? It seems a good time measure. Honestly you won't have the time. Things go so fast that sometimes it looks like you are always late. But it is a good time window to look back. Companies pace their lives in quarters.
 
-I've been helping startup CTOs and other tech leads as a mentor for some years, mostly learning with them and helping where I can. I took notes. A lot of them. I also keep diaries about my own professional experiences that I review from time to time.
 
 #### Why me ?
 
-My learning tools are writing down diaries for each company I worked for and looking how other people behave. I've had the luck of having great mentors and not so good managers that provided me plenty of opportunities.
+I've had the luck of having great mentors and managers, and not so good managers that provided me plenty of opportunities or examples of what not to do.
 
-When we are growing, we are used to look only for stellar success and fear big failures but there is a lot in between. 
+Besides regular work, I've been helping startup CTOs and other tech leads as a mentor for some years, mostly learning with them and helping where I can. I took notes. A lot of them. I also keep diaries about my own professional experiences that I review from time to time. 
 
-What struck me most is how starting is hard, even if you started many times. There are so many variables that it is unfair to think you will be able to cover most of them. And when you start, you are in a hurry to show some service, to help and succeed, which mounts up the pressure.
+When we are growing, we are used to look only for stellar success and fear big failures but there is a lot in between.
 
-Every change or promotion is a new start and there are two important aspects: you and what you will be doing for the next years. There are schools of taking it easy, failing fast, delivering faster but in the end you will only find out what you need to do while doing it. 
+But what struck me most is how starting is hard, even if you started many times. There are so many variables that it is unfair to think you will be able to cover most of them. And when you start, you are in a hurry to show some service, to help and succeed, which mounts up the pressure.
 
-I've started a lot. And also helped other people to start - I've been mentoring CTOs for tech startups for 6 years besides working at my day job. The problems are not so different but the people are. And the space they have to attack these issues too. When leadership is needed, having a minimally structured plan goes a long way.
+Every change or promotion is a new start and there are two important aspects: you and what you will be doing for the next years. There are many canned disciplines: taking it easy, failing fast, delivering faster but in the end you will only find out what you need to do while doing it. 
+
+The problems are not so different but the people are. And the space they have to attack these issues too. When leadership is needed, having a minimally structured plan goes a long way.
 
 #### How to read it
 
@@ -53,19 +58,19 @@ Good reading !
 
 ### Engineering versus Management
 
-I can't say that management was a planned path to me — it was a transition I did. After some time in my career, I thought it would be interesting to try my hand in management after watching other managers results. I figured it could be the path to fix what made me unhappy about my growth. That genius moment didn't came fast or easy tho.
+I can't say that management was a planned path to me. After some time as an engineer, I thought it would be interesting to try my hand in management after watching other managers work. I figured it could be the path to fix what made me unhappy about my growth. That genius moment didn't came fast or easy tho.
 
-Management/Engineering ladder or Y career model is a term used to describe different profiles inside the same company. I call it a myth because the implemented cases I saw were more about retention than the real prospect of monetary equity or a path where you could move between careers without prejudice. This is called "pendulum career". Down at 
+Management/Engineering ladder or Y career model is a term used to describe different profiles inside the same company. I call it a myth because the implemented cases I saw were more about retention than the real prospect of monetary equity or a path where you could move between careers without prejudice. This is called "pendulum career".
 
-At the time I did my transition the myth of the Y Career was strong in promises but rare in opportunities — manager to tech leads ratio was way over 10 to 1 at most companies. We, the tech team were told that managers were people that "are doing the boring HR work" or "isolating us from business requests" and that by working hard we could aim to a place where money and benefits were equal to managers and that would be life.
+At the time I did my transition the myth of the Y Career was strong in promises but rare in opportunities — manager to tech leads ratio was way over 10 to 1 at most companies. 
 
-Don't take me bad - I believe the Y career model is good a temporary step while the company can't equal compensation and accountability to every member in the team based in their importance in a transparent way. It is a patch to what was instituted in the 1950s corporate ladder, where becoming a manager was the end goal for employees and it didn't made sense to compensate commodity workers in the same way you did for executives.
+We, the tech team were told that managers were people that "are doing the boring HR work" or "isolating us from business requests" and that by working hard we could aim to a place where money and benefits were equal to managers and that would be life.
 
-It is better than nothing, far from optimal. Don't you believe that ? Check out how much money companies pay for licenses, people and servers when their world is crashing compared when everything is peaceful.
+Don't take me bad - I believe the Y career model is a good temporary step while the company can't equal compensation and accountability to every member in the team based in their importance in a transparent way. It is a patch to the 1950s corporate ladder all companies implement, where becoming a manager was the end goal for employees and it didn't made sense to compensate commodity workers in the same way you did executives.
 
 ![Another Y-Career victim](images/doggo.jpg)
 
-This discussion is only possible by the radical change on engineering culture that we are seeing in the last 10 years or so. The market for engineers and people that can manage them changed radically, managers are pressed to learn and behave in ways that their peers from 20 years ago would not even imagine. 
+This discussion is only possible by the radical change on engineering culture that we are seeing in the last 10 years. The market for engineers and people that can manage them changed radically, old school managers are pressed to learn and behave in ways that their peers from 20 years ago would not even imagine. 
 
 Acceptable behaviors from Engineers and Managers also shifted radically, long are gone the days of the insufferable genius or the distant technology executive. For instance, no manager worth their salt nowadays don't do 1:1s (For the benefit of the people working with you I recommend reading [this post by Michael Lopp](http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/) about 1:1s). 
 
@@ -73,61 +78,69 @@ Acceptable behaviors from Engineers and Managers also shifted radically, long ar
 
 I can say I experienced distinct management styles and scenarios; from the CYA based management to a more technical and product oriented management during my pre-manager time.
 
-Over time, I had the feeling that only working as a technical contributor was not sustainable if I wanted to grow. It was also clear that the money flowed in a different direction and that having non-tech managers close to places where decision was made was causing a lot of rework and miscommunication.
+Over time, I had the feeling that being a technical contributor was not enough if I wanted to grow. It was also clear that the money flowed in a different direction and that having non-tech managers close to places where decision was made was causing a lot of rework and miscommunication.
 
-Considering past opportunities that I declined in favour of not believing in the traditional management career, at some point I started to believe that I had to experiment this change.
+Considering past opportunities that I declined in favor of not believing in the traditional management career, at some point I started to believe that I had to experiment this change.
 
 I knew what I did, I knew what I didn't like my managers did and I had some good role models, so why not ? I knew the [golden rule](https://en.wikipedia.org/wiki/Golden_Rule) so that should be easy right ? 
 
 Wrong. The first barrier to overcome was that I didn't know it was possible to me to be a manager, therefore I've had convinced myself to not pursue it first because it seemed unattainable to get there and then under the "boring non-tech work" excuse.
 
-At your first job, what did you think when you saw your manager or director cruising away in a big car ? In which order "I could do that" came to your mind ? It was hard to me to relate how people got into this position. Actually I've never questioned it. It looked like they were born like that.
+What did you think when you saw your manager or director cruising away in a big car in your first job ? In which order "I could do that" came to your mind ? It was hard to me to relate how people got into this position. Actually I've never questioned it. It looked like they were born like that.
 
 After the aforementioned "I know how to do it" moment, I committed to myself that I'd embrace the next opportunity to lead a team and apply the same energy I did when learning a new language or on-boarding into a new company. I've vowed to start small leveraging what I knew, studying with the few technical managers available and trying to avoid making mistakes.
 
 #### Saying No and Adapting
 
-The timing of my career change was that the company I was working with was doing great financially but having problems on engineering and product. The managers where leaving or being fired and at some point someone was needed to help a team that worked with a legacy no one wanted to touch. I've approached it trying to avoid too many mistakes but eager to learn what would be my new career. 
+The timing of my career change was funny - the company I was working with was doing great financially but having problems on engineering and product. Managers where quitting or being fired and at some point someone was needed to help a team that worked with a legacy product no one wanted to touch. I was lucky to be in the right place.
 
-Turns out I did a lot of them. And while I was learning, my responsibilities increased. I started small (a 4 people team) and quickly saw myself managing half of the company tech team for reasons I should put in another post. **One of the most common mistakes is not learning to say "No" soon enough**.
+I've approached the challenge trying to avoid too many mistakes but eager to learn what would be my new career. Turns out I did a lot of them. 
 
-The only advice I had was **"be careful to not back into your comfort zone"** meaning I shouldn't not compete with the team by coding or making their decisions when I faced some uncomfortable situation. And I had them, I took some time to "read the room" and understand the chaos and power plays. Luckily coming from a technical background helped me a lot on the oncoming firefighting.
+And while I was learning, my responsibilities increased. I started small (a 4 people team) and quickly saw myself managing half of the company tech team for reasons I should put in another post. **One of the most common mistakes is not learning to say "No" soon enough**.
+
+The only advice I had was **"be careful to not back into your comfort zone"** meaning I shouldn't not compete with the team by coding or making their decisions when I faced some uncomfortable situation. And I had them, I took some time to "read the room" and understand the chaos and power plays. Luckily my technical background helped me a lot on the oncoming firefighting.
 
 Over time the people I managed changed, naturally as the people joining companies changed too. Furthermore my management style had to **adapt**, in communication and expectations.
 
-**Adapting** meant trying to figure out how my team expectations changed. A generation ago the main concern was to lose your job, today companies have a hard time recruiting because good technical people don't want to have a job for a long time without meaningful space to have an impact. Around the same time getting straight tickets of what to do was a plus and now it is unthinkable to not involve your team on prioritisation. Same for tech stack and infrastructure.
+**Adapting** meant trying to figure out how my team expectations changed. A generation ago the main concern was to lose your job, today companies have a hard time recruiting because good technical people don't want to have a job for a long time without meaningful space to have an impact. Around the same time getting straight tickets of what to do was a plus and now it is unthinkable to not involve your team on prioritization. Same for tech stack and infrastructure.
 
-I had the luck of working with the best people around and see a lot of them becoming managers, tech leads, working abroad and competing with good advantage to people from countries that put more emphasis in tech than Brazil. That makes me proud and my life was easier because of them.
+I had the luck of having worked with the best people around and see a lot of them becoming managers, tech leads, working abroad and competing with good advantage to people from countries that put more emphasis in tech than Brazil. That makes me proud and my life was easier because of them.
 
 ### Know your team
 
 **Knowing what your team does** makes your life easy. Looks like a weird thing to say, but answer this: if you had to start from where someone of your team is working today, would you know how hard is to do their job ? Would you be able to deliver, ask for help, convince your peers , burn the midnight oil or get back to management with a convincing argument about doing or not doing it ?
 
-[**Harvard Business Review published an article based on a study that says "If your boss could do your job, You are more likely to be happier at work"](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work)** . It also states that the common wisdom of promoting people from the team to management positions being a bad thing **is wrong**. Life isn't easy for any new manager, but it is not a bad thing to let someone that has tech experience to try and manage a small team, learn and go from there. It also helps shoot down the myth of the Y career. Leadership is a natural progression and can be learned. 
+[**Harvard Business Review published an article based on a study that says "If your boss could do your job, You are more likely to be happier at work"**](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work.). 
+
+It also states that the common wisdom of promoting people from the team to management positions being a bad thing **is wrong**. Life isn't easy for any new manager, but it is not a bad thing to let someone that has tech experience to try and manage a small team, learn and go from there. It also helps shoot down the myth of the Y career. Leadership is a natural progression and can be learned. 
 
 I also learned that **Leadership emerges**. Pay attention to who you work with, invest time helping grow new leaders. An imposed leadership will rarely work with a team.
 
 Regardless of how much importance is put in tech teams in a company, people are their most powerful asset. This sounds cheesy, but both in companies that hire 100s of developers and tech is seem as a commodity than for companies that have a small team which holds the company's life in their hands, people make the difference.
 
-You know that when you work as a tech contributor in the team, you see things from a different angle than when you are managing a team. Especially when 2 weeks after you arrive you find out they are leaving due for any reason: a new company came up paying more, the former manager messed up, a key person left or excess work was put over them. 
+You know that when you work as a tech contributor in the team, you see things from a different angle than when you are managing a team. Especially when 2 weeks after you arrive you find out they are leaving due for any reason: a new company in the market paying more, the former manager messed up, a key person left or excess work was put over them. 
 
 When it happened to me, I didn't knew what to do, but a friend told me to start hiring. Tough luck if it happens to you but do not lose hope, it happens. You will have plenty of opportunities to mess up, but if you are just getting there, this one wasn’t your fault. 
 
-People have to feel **purpose** to perform well. They should feel that they belong to something and feel that whoever is leading supports and works to keep them safe. Safe is not "treating people like children" but safe as in "if you own it we have your back". Safety in terms of expressing what they think, support when trying and failing, getting rid of jerks and coaching everyone to be a potential leader.
+People have to feel **purpose** to perform well. They should feel that they belong to something and feel that whoever is leading supports and works to keep them safe. Safe as in "if you own it we have your back". Safety in terms of expressing what they think, support when trying and failing, getting rid of jerks and coaching everyone to be a potential leader.
 
 **Purpose** is not only collecting their salary or vesting stock — this is good and necessary as much as impact on their industry and for themselves. But growing up, saving money, helping people to move on their careers, make successful products and get better. All of this is subjective and very particular but impossible to ignore. Learning what is the purpose of each person on your team is necessary.
 
 #### Team culture
 
-The team culture is made from everyone's contribution and it is hard to see at first how you influence it as a leader and how each of the personalities plays into it. But it is not hard to spot aggressors. I want to point two: The **brilliant jerks** and **tech dramas**.
+The team culture is made from everyone's contribution and it is hard to see at first how you influence it as a leader and how each of the personalities plays into it. 
+
+It is important to be consistently **hiring** in a way that you spot your biases and improve diversity. 
+
+Firing is equally important to keep a healthy culture. It is not hard to spot culture aggressors. I want to point two: The **brilliant jerks** and **tech dramas**.
 
 ##### Hiring (and firing)
 
-Getting involved on recruiting, interviewing and sending offers changed my point of view on retention in these situations. **You have to be always recruiting**, these pipelines are hard to warm up and if you don't do that often by the time you remember them you it is an emergency. 
+Getting involved on recruiting, interviewing and sending offers changed my point of view on retention in these situations. **You have to be always recruiting**, recruiting pipelines are hard to warm up and if you don't do that often by the time you remember them you it is an emergency. 
 
-Learn to recruit and hire (go speak in conferences, abuse the hallway track, pay lunches/coffee/dinner, open your company to communities, reach out to friends). Also, very important: learn to fire. It is tough, but important. Specially jerks (we will discuss them below).
+Learn to recruit and hire (visit and speak in conferences, abuse the hallway track, pay lunches/coffee/dinner, open your company to communities, reach out to friends). Also, very important: learn to fire. It is tough, but important. Specially jerks (we will discuss them below).
 
-Hiring depends a lot of networking, no HR team can do it alone. And it is a network effect. You hire good people, more good people come. But also you should start developing your current team and having them to speak, collaborate with OpenSource projects and the community. That that makes for a stronger attractor and helps you balance your culture mixing what was created at your company with what new people bring that is positive.
+Hiring depends a lot on networking, no HR team can do it alone. And it is a network effect. You hire good people, more good people come. But also you should start developing your current team and having them to speak, collaborate with OpenSource projects and the community. That makes for a stronger attractor and helps you balance your culture mixing what was created at your company with what new people bring that is positive.
 
 ##### Brilliant Jerks
 
@@ -156,19 +169,21 @@ As the teams advances in maturity you'll see product management and tech culture
 
 After your company gets bigger these problems grow exponentially and you start to see leaks in your culture and morale tagged as "communication problems", a common misnomer.
 
-Unhappiness, whining and rumours are normal. As soon as you acknowledge they exist and to some extent they are normal, the best. Use your energy to build bridges and channels that this information can get to you after being filtered by the good sense of your team mates. 
+Unhappiness, whining and rumors are normal. As soon as you acknowledge they exist and to some extent they are normal, the best. Use your energy to build bridges and channels that this information can get to you after being filtered by the good sense of your team mates. 
+
+Also a tip here: there are rumors about you. Some of them will make you want to get in front of everyone and yell they are wrong. You know you are not like this. This is normal but may be partially your fault. No one deserves to be the subject of unfounded rumors but a phrase not well connected or decision not explained can lead to that. Chill.
 
 Mondays are the worst day to take actions over this as the mood usually is not good (cut the bullshit about not loving Mondays being a bad sign, everyone is entitled to have their bad day of choice).
 
 ### Decisions
 
-One of the hardest things to do is to explain decisions. Specially when the mood is that "anything outside of the team is a Top Down". Top downs are sort of a ghost haunting teams, which is hard to chase. But they don't exist most of the time - what exists is an unbalance on one of the sides.
+One of the hardest things to do is to explain decisions. Specially when the mood is that "anything outside of the team is a Top Down". Top downs are sort of a silly ghost haunting teams, which is hard to chase. They don't exist most of the time - what exists is an asymmetry of the decisions based on priority, urgency, execution power or capabilities.
 
 You'll see smaller teams taking over old corporate IT structures to build instead of buying some of the components of the business. You might be the one leading it, the victim in the losing side of it or just a passerby. Depending on it a decision of one team can be perceived as a Top Down to the other.
 
 The contrary movement happens too: tech as commodity — when all technology you have is from outside vendors. It comes as "We have the brains, they execute" or "you guys spent 2 years trying to reinvent the wheel and we're making an Executive decision of buying Big O software". Same energy and awareness issue. Where transparency failed ? Where all nice agile presentations were gone ?
 
-In both cases proper planning, objectives and how to measure success is lacking in favour of knee-jerk reactions. We will see that below, after [The Plan](#the-plan).
+In both cases proper planning, objectives and how to measure success is left in second or third place in lieu of knee-jerk reactions. We will see that below, after [The Plan](#the-plan).
 
 The importance of knowing what your team does, what your company do and having the courage to express your point of view is that you will be closer to the birth of these decisions. They are not made in the cafeteria or in all hands gathering. 
 
@@ -211,12 +226,16 @@ But before moving to processes, I want to talk about another euphemism for top d
 
 #### Disagree and commit
 
-Disagree and commit means more than what is discussed on modern self-managed teams or management 3.0 material. Company performance awareness is important during growth. As we saw in the adjustments from Yahoo, Amazon and Facebook that we could track, there might be top downs at the executive level but more often disagreements will happen in local groups.
+Disagree and commit means more than what is discussed on modern self-managed teams or management 3.0 material. Company performance awareness is important during growth. 
+
+As we saw in the adjustments from Yahoo, Amazon and Facebook that we could track, there might be top downs at the executive level but more often disagreements will happen in local groups.
 
 [**Disagree and commit - Wikipedia**
 *Disagree and commit is a management principle which states that individuals are allowed to disagree while a decision is…*en.wikipedia.org](https://en.wikipedia.org/wiki/Disagree_and_commit)
 
-In an ideal team context, discussions would not veer too far of what the culture dictates. Some people will be more laid back, others more vocal. Once in a while, you will have an argument but usually it settles back. When tech management is lacking, there will be long discussions. The gauge to me is that as the discussion grows, if no action is taken, no one moves, it quickly becomes meaningless. It becomes an ego exercise as I mentioned before for bikeshedding.
+In an ideal team context, discussions would not veer too far of what the culture dictates. Some people will be more laid back, others more vocal. Once in a while, you will have an argument but usually it settles back. When tech management is lacking, there will be long discussions. 
+
+The gauge to me is that as the discussion grows, if no action is taken, no one moves, it quickly becomes meaningless. It becomes an ego exercise as I mentioned before for bikeshedding.
 
 If this is frequent and impacting delivery, the company will look for tools that makes sense looking from a high executive position: institute devices as the ARB — **Architectural Review Board**. In an attempt of not telling people what to do or owning up decisions you end up with a tribune to replicate the same discussions in public, like old Rome. The other common device is bringing in outside experts.
 
@@ -224,7 +243,7 @@ If this is frequent and impacting delivery, the company will look for tools that
 
 These are the answers of busy executives mixed with the generic "communication problem". There will be no meaningful decisions, at most the most vocal person may get some space but this kind of personality rarely comes with good execution skills. It signal strongly that there is no effective engineering leadership. 
 
-It feels different than "disagree and commit", it is a "sit down and be quiet". And far from *buy-in, *the side that "lost" (as they will rightfully perceive the outcome) will just wait to get delighted by the failure or collectively think about leaving to create an impact.
+It feels different than "disagree and commit", it is a "sit down and be quiet". And far from *buy-in*, the side that "lost" (as they will rightfully perceive the outcome) will just wait to get delighted by the failure or collectively think about leaving to create an impact.
 
 This may cause middle manager leadership to leave, which is a team as hard to build as a good engineering team. Naturally we think that if the not-so-good people leave we will be in a good spot but that's rarely the case alone. There will be different composition to the horde of unhappy, and there is a cascading effect coming from the conversation this team have out of band. It is more common that competent people leaves altogether. 
 
@@ -256,7 +275,7 @@ In the book "[High Output Management](https://www.amazon.com/High-Output-Managem
 
 Many scenarios are explored and it is possible to grasp the idea of waste, delivery time and investment on production. In many cases, tentative improvements to machinery in a single place of the production line come out as waste when put together at the end. I can't recommend this book enough as it is an historical document where you can see the beginnings of many of our industries practices there — for example OKRs.
 
-All this requires a set of skills and ownership hard to achieve first hand so empathy can be used to understand what is going on when your organization has this division. If your tech org still has functional team it means that for whoever that is accountable in a higher level things are not as green as it appears. Be sure you don't know everything about all the things.
+Your job requires a set of skills and ownership hard to achieve first hand so empathy can be used to understand what is going on when your organization has this division. If your tech org still has functional team it means that for whoever that is accountable in a higher level things are not as green as it appears. Be sure you don't know everything about all the things.
 
 ![shamelessly stolen from [https://twitter.com/chopeh/status/926074073767206912](https://twitter.com/chopeh/status/926074073767206912)](images/fixing.jpg)*shamelessly stolen from [https://twitter.com/chopeh/status/926074073767206912](https://twitter.com/chopeh/status/926074073767206912)*
 
