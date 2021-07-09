@@ -289,9 +289,7 @@ To be actively learning is important to relate to what your team does. You can b
 
 Be calm in the face of adversity — Don't Panic. You are the person that can't panic, even if your stomach is churning, you feel your legs weak, remember there are people that look up to you for guidance and solace. So calm down, breath and move on.
 
-You must constantly (I'd say each 6/12 months or so) evaluate if it is worth for you to keep doing what you do in the place you are working. There are plenty of good opportunities around. You will survive.
-
-There is no running out of fights here if you believe your heart is in the right place about the company, the team and your career. What you gonna do?
+You must constantly (I'd say each 6/12 months or so) evaluate if it is still worthwhile for you to keep doing what you do in the place you are working. There are plenty of good opportunities around if that's not the case and it will help you not to have this question coming up every time something happens. Take a time to think about it and move on.
 
 And now, let's go for The Plan !
 
@@ -673,17 +671,65 @@ Avoid:
 
 Is this a book ? Not yet. Not the authoritative source for what you should do. I've put down what helped me and not when it helped me, because I tried to abstract situations, companies and people.
 
+#### Span of control
 When building or reorganizing teams, keep the span of control on 5 to 8 people for each manager, including you. Opt for line managers with small teams and clear objective and planning rituals that you can help instead of an overly hierarchical org. Engineering managers should support line managers, this is their most important job (a close) second only to hiring. 
 
+#### Stacks and platforms
 Advocate for standard stacks and technology. Not the one you love, but the ones that work well for the team. Make them accountable for delivery. 
+
+A good platform that makes deployment, observability and testing is worth 10x a language war. Fix that first. 
+
+You will find all kinds of discussions about it but done in production works great to improve morale and build knowledge. No decision is permanent. Avoid virtue signaling.
+
+#### Growing leadership
 
 Run a Manager Training session. It can be simple as a book reading club. I suggest you base it on the book [“An Elegant Puzzle”](https://lethain.com/elegant-puzzle/). Conduct role playing sessions to learn how to give and receive feedback.
 
-Remember that what brought you here is not guaranteed to work in the future. Learn how the new generations work, there is a lot to learn with them. Drop the "blame the millennials" bullshit. Don't make them suffer what you did just because, don't be petty. 
+Remember that what brought you here is not guaranteed to work in the future. Learn how the new generations work, there is a lot to learn with them. Keep that in mind for the leaders in your team.
 
-People are important, technology is a side-effect, Money can’t buy everything but helps a lot. Good and smart engineering helps more. Don’t try to blindly save on tools that help your team.
+Drop the "blame the millennials" bullshit. Don't make them suffer what you did just because, don't be petty. 
 
-And finally, you are the outsider, people tend to think the past was better than it really was. They will probably blame you for the change at some point. Breathe, give some space. But be kind to yourself and straight clear when people step over your boundaries. 
+#### People first, tech to support
+
+People are important, technology is a side-effect, Money can’t buy everything but helps a lot. 
+
+Good and smart engineering helps more. Don’t try to blindly save on tools that help your team. 
+
+Don't save going for less than optimal hiring. Cheap here means trouble later.
+
+#### Communication 
+Writing will be what you will do most in the remote reality we have now. Go for a written culture that is better to keep up at different timezones.
+
+I've found out a set of advices from Amazon on writing in [this book](https://www.amazon.com/gp/product/1260455491/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=inccomlinkcom-20&creative=9325&linkCode=as2&creativeASIN=1260455491&linkId=61476311720e85d0be5e38d1e6792baf). I try to stick to the to the following and it is a constant exercise to keep in line (hence this ebook being a git project with reviews):
+
+##### Use less than 30 words per sentence
+	Long sentences are hard to break and digest. Keep them short so the reader or listener can take it home and use it.
+
+##### Avoid long recaps
+	Time is short. It is tempting to give out a lot of context but make a clear judgement if that's needed. If so, write them down, send in advance and ask for the audience to be prepared if there is a presentation coming.
+
+##### Drop adjectives, go for data
+	"Huge amazing rocketship !" can pass excitement but prefer "We grew 10% month over month in the last 6 months". Leave the adjectives for the audience or reader.
+
+##### Eliminate weasel words
+	This is about doublespeak/corporate talk or uncertainty. Either you want something done, communicated or planned. It is important to know what you want and do it. If you go around too much the message will be buried and trust will go away.
+
+##### The "so what" test
+	Drop the ego when reading your paper or deck and ask "does it matter ? should I extend it ? shorten it ?". What's the value ? It may help kill a meeting that could be an informative email. Does people really care about an algorithm in a finance meeting ? Remember time is short, work on the message.
+
+##### Be straight when answering questions
+	If you get a question, reply with "Yes", "No", A number or "I don't know, will follow up". Or any equivalent. Drop the storytelling
+
+##### Take a stand, own it
+	The summary is to take as stand and own what you are communicating or want to do. There are meetings and presentations that can be productive and others that go everywhere and leaves the audience frustrated as no decision was made. 
+	Writing straight to the point means you know what you want and that's progress.
+
+I am not a native English speaker so writing was hard for a while. [The book On Writing Well](https://www.amazon.com/dp/B0090RVGW0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) helped me a lot. It was written before electronic communication but contains good advice and exercises. Work on it, communicating well is required.
+
+#### Real final advice I promise
+And finally, you are the outsider, people tend to think the past was better than it really was. If there is a team, they will probably project on you the changes at some point. 
+
+Breathe, give some space. Be kind to yourself and straight clear when people step over your boundaries. 
 
 Have fun !
 
