@@ -289,7 +289,7 @@ Your job requires a set of skills and ownership hard to achieve first hand so em
 
 ### TL;DR
 
-Don't hesitate to migrate to management if you considered that for at least 1 minute in the recent past. You safely can try it, you won't lose what you know and the world needs better leaders. The transition may looks tough, but doable. 
+Don't hesitate to migrate to management if you considered that for at least 1 minute in the recent past. You can safely try it, you won't lose what you know and the world needs better leaders. The transition may looks tough, but doable. 
 
 You will be technically relevant, without competing with your team or letting your ego go. You will give and ask for feedback and remember that you are accountable for both aspects of the work.
 
@@ -303,19 +303,23 @@ And now, let's go for The Plan !
 
 ### The plan
 
-Before starting the new gig, even if the only time you have is the weekend before starting your new position, put a plan together. It doesn't need to be complex but it has to have a path to start, which you can go back after a full day and recognise. 
+Before starting the new gig, even if the only time you have is the weekend before starting your new position, put a plan together. It doesn't need to be complex but it has to have a path to start, which you can go back after a full day and see progress.
 
-You probably don't need or will follow all items in there but it is a good baseline to learn how you evolved later on. It is good to look back and see how naive or to the point you were planning your new endeavour. 
+You probably don't need or will check all items in there but it is a good baseline to learn how you evolved later on. It is good to look back and see how naive or to the point you were planning your start. 
 
-I created a slide deck to help organise the plan. It has high level questions based on items I describe in this post. The order is flexible too. It is a template and a guideline you can expand for your due diligence. You can [find it here](https://docs.google.com/presentation/d/1KCh-gzfWYL-EcBQBS19ESPHwsfnubr7m8hKaXshH8Hw/edit?usp=sharing). 
+I created a slide deck to help organise this plan. It has high level questions based on items I describe in this book. The order is flexible. 
 
-Ideally you will make notes after each section or subsection to revisit later or measure. The plan is to learn. There are advices throughout the text that you may or may not follow but use it to set up your baseline. The order is sugggested based on information you need to learn for each step.
+It is a template and a guideline you can expand for your due diligence too if you end working on an M&A (Merge and Acquisition). You can [find it here](https://docs.google.com/presentation/d/1KCh-gzfWYL-EcBQBS19ESPHwsfnubr7m8hKaXshH8Hw/edit?usp=sharing). 
+
+Ideally you will make notes after each section or subsection to revisit later or measure. The plan is to learn. The order is suggested based on information you need to learn to complete each step.
 
 ### Learning and Measuring
 
-So, how do you say something is good or bad ? How do you demonstrate things that are obvious to you but not so obvious to the person or group you are talking to ? Apart from telepathy you can use known baselines and metrics from companies that you can relate and derive them. After some time repeating "we did that in company X or Y" gets tired as you are not there anymore, your team does not works there. So having a simple deriving path help other people learn what you know, which is the first step to influence them.
+So, how do you say something is good or bad ? How do you demonstrate things that are obvious to you but not so obvious to the person or group you are talking to ? Apart from telepathy you can use known baselines and metrics from companies that you can relate and derive them. 
 
-I've grouped what concerns me when I want to make an assessment in four sections. For each one of the sections I've put together baseline metrics or concepts. Some are obvious as smarter people came before us and studied them, some of them require some imagination. 
+After some time repeating "we did that in company X or Y" gets tired as you are not there anymore, your team does not works there. So having a simple deriving path help other people learn what you know, which is the first step to influence them.
+
+I've grouped what concerns me when I make an assessment in four sections. For each one of the sections I've put together baseline metrics or concepts. Some are obvious as smarter people came before us and studied them, some of them require some imagination. 
 
 #### Engineering Delivery Metrics
 
