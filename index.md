@@ -64,7 +64,7 @@ Management/Engineering ladder or Y career model is a term used to describe diffe
 
 At the time I did my transition the myth of the Y Career was strong in promises but rare in opportunities — manager to tech leads ratio was way over 10 to 1 at most companies. 
 
-We, the tech team were told that managers were people that "are doing the boring HR work" or "isolating us from business requests" and that by working hard we could aim to a place where money and benefits were equal to managers and that would be life.
+The tech team were told that managers were people that "are doing the boring HR work" or "isolating us from business requests" and that by working hard we could aim to a place where money and benefits were equal to managers and that would be life.
 
 Don't take me bad - I believe the Y career model is a good temporary step while the company can't equal compensation and accountability to every member in the team based in their importance in a transparent way. It is a patch to the 1950s corporate ladder all companies implement, where becoming a manager was the end goal for employees and it didn't made sense to compensate commodity workers in the same way you did executives.
 
@@ -82,29 +82,35 @@ Over time, I had the feeling that being a technical contributor was not enough i
 
 Considering past opportunities that I declined in favor of not believing in the traditional management career, at some point I started to believe that I had to experiment this change.
 
+#### Leading vs Managing
+
 I knew what I did, I knew what I didn't like my managers did and I had some good role models, so why not ? I knew the [golden rule](https://en.wikipedia.org/wiki/Golden_Rule) so that should be easy right ? 
 
 Wrong. The first barrier to overcome was that I didn't know it was possible to me to be a manager, therefore I've had convinced myself to not pursue it first because it seemed unattainable to get there and then under the "boring non-tech work" excuse.
 
-What did you think when you saw your manager or director cruising away in a big car in your first job ? In which order "I could do that" came to your mind ? It was hard to me to relate how people got into this position. Actually I've never questioned it. It looked like they were born like that.
+What did you think when you saw your manager or director cruising away in a big car in your first job ? In which order "I could do that" came to your mind ? It was hard to me to relate how people got into this position. I've had never questioned that.
 
-After the aforementioned "I know how to do it" moment, I committed to myself that I'd embrace the next opportunity to lead a team and apply the same energy I did when learning a new language or on-boarding into a new company. I've vowed to start small leveraging what I knew, studying with the few technical managers available and trying to avoid making mistakes.
+After the aforementioned "I know how to do it" moment, I committed to myself that I'd embrace the next opportunity to lead a team and apply the same energy I did when learning a new language or on-boarding into a new company, to start small leveraging what I knew.
+
+Everyone can and should lead and that's different from managing. To manage is to care about time, outcome, expectation and a world of nice words. To lead is connected to action and execution.
 
 #### Saying No and Adapting
 
-The timing of my career change was funny - the company I was working with was doing great financially but having problems on engineering and product. Managers where quitting or being fired and at some point someone was needed to help a team that worked with a legacy product no one wanted to touch. I was lucky to be in the right place.
+The timing of my career change was interesting - the company I was working with was doing great financially but having problems on engineering and product. Managers where leaving and at some point someone was needed to help a team that worked with a legacy product no one wanted to touch. I was lucky to be in the right place.
 
-I've approached the challenge trying to avoid too many mistakes but eager to learn what would be my new career. Turns out I did a lot of them. 
+I've approached the challenge trying to avoid too many mistakes but eager to learn what would be my new career. Turns out I did a lot of them.
 
 And while I was learning, my responsibilities increased. I started small (a 4 people team) and quickly saw myself managing half of the company tech team for reasons I should put in another post. **One of the most common mistakes is not learning to say "No" soon enough**.
 
-The only advice I had was **"be careful to not back into your comfort zone"** meaning I shouldn't not compete with the team by coding or making their decisions when I faced some uncomfortable situation. And I had them, I took some time to "read the room" and understand the chaos and power plays. Luckily my technical background helped me a lot on the oncoming firefighting.
+The only advice I had was **"be careful to not back into your comfort zone"** meaning I shouldn't not compete with the team by coding or making their decisions when I faced some uncomfortable situations where I questioned my choice. 
+
+If you are in this situation you will remember fondly the time when you just coded, but think again - you never did that if you were leading. We tend to see the past in warm colours.
 
 Over time the people I managed changed, naturally as the people joining companies changed too. Furthermore my management style had to **adapt**, in communication and expectations.
 
-**Adapting** meant trying to figure out how my team expectations changed. A generation ago the main concern was to lose your job, today companies have a hard time recruiting because good technical people don't want to have a job for a long time without meaningful space to have an impact. Around the same time getting straight tickets of what to do was a plus and now it is unthinkable to not involve your team on prioritization. Same for tech stack and infrastructure.
+**Adapting** meant trying to figure out how my team expectations changed. A generation ago the main concern was to lose your job, today companies have a hard time recruiting because good technical people don't want to have a job for a long time without meaningful space to have an impact. Around the same time getting straight tickets of what to do was a plus and now it is unthinkable to not involve your team on prioritization. 
 
-I had the luck of having worked with the best people around and see a lot of them becoming managers, tech leads, working abroad and competing with good advantage to people from countries that put more emphasis in tech than Brazil. That makes me proud and my life was easier because of them.
+I had the luck of had worked with the best people around and see a lot of them becoming managers, tech leads, working abroad and competing with good advantage to people from countries that put more emphasis in tech than Brazil. That makes me proud and my life was easier because of them.
 
 ### Know your team
 
@@ -118,7 +124,7 @@ I also learned that **Leadership emerges**. Pay attention to who you work with, 
 
 Regardless of how much importance is put in tech teams in a company, people are their most powerful asset. This sounds cheesy, but both in companies that hire 100s of developers and tech is seem as a commodity than for companies that have a small team which holds the company's life in their hands, people make the difference.
 
-You know that when you work as a tech contributor in the team, you see things from a different angle than when you are managing a team. Especially when 2 weeks after you arrive you find out they are leaving due for any reason: a new company in the market paying more, the former manager messed up, a key person left or excess work was put over them. 
+When you work as a tech contributor in the team, you see things from a different angle than when you are managing a team. It hits specially hard when 2 weeks after you arrive you find out people are leaving for any reason: a new company in the market paying more, the former manager messed up, a key person left or excess work.
 
 When it happened to me, I didn't knew what to do, but a friend told me to start hiring. Tough luck if it happens to you but do not lose hope, it happens. You will have plenty of opportunities to mess up, but if you are just getting there, this one wasn’t your fault. 
 
@@ -726,12 +732,12 @@ I've found out a set of advices from Amazon on writing in [this book](https://ww
 	The summary is to take as stand and own what you are communicating or want to do. There are meetings and presentations that can be productive and others that go everywhere and leaves the audience frustrated as no decision was made. 
 	Writing straight to the point means you know what you want and that's progress.
 
-I am not a native English speaker so writing was hard for a while. [The book On Writing Well](https://www.amazon.com/dp/B0090RVGW0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) helped me a lot. It was written before electronic communication but contains good advice and exercises. Work on it, communicating well is required.
+I am not a native English speaker so writing was hard for a while. [On Writing Well](https://www.amazon.com/dp/B0090RVGW0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) provides actionable advice and helped me a lot. Work on it, communicating well is required.
 
 #### Real final advice I promise
 And finally, you are the outsider, people tend to think the past was better than it really was. If there is a team, they will probably project on you the changes at some point. 
 
-Breathe, give some space. Be kind to yourself and straight clear when people step over your boundaries. 
+Breathe, give some space. Be kind to yourself and straight clear when people step over your boundaries.
 
 Have fun !
 
