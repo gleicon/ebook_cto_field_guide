@@ -239,11 +239,13 @@ As we saw in the adjustments from Yahoo, Amazon and Facebook that we could track
 [**Disagree and commit - Wikipedia**
 *Disagree and commit is a management principle which states that individuals are allowed to disagree while a decision is…*en.wikipedia.org](https://en.wikipedia.org/wiki/Disagree_and_commit)
 
-In an ideal team context, discussions would not veer too far of what the culture dictates. Some people will be more laid back, others more vocal. Once in a while, you will have an argument but usually it settles back. When tech management is lacking, there will be long discussions. 
+Ideally discussions would not extend beyond what the culture support. Some people will be more laid back, others more vocal. Once in a while, you will have an argument but usually it settles back. When tech management is lacking, there will be long discussions.
 
-The gauge to me is that as the discussion grows, if no action is taken, no one moves, it quickly becomes meaningless. It becomes an ego exercise as I mentioned before for bikeshedding.
+It is useful to me to track if no action is taken while the discussion volume increases. If no action is taken, no one moves, it quickly becomes meaningless. It becomes an ego exercise as I mentioned before for bikeshedding.
 
-If this is frequent and impacting delivery, the company will look for tools that makes sense looking from a high executive position: institute devices as the ARB — **Architectural Review Board**. In an attempt of not telling people what to do or owning up decisions you end up with a tribune to replicate the same discussions in public, like old Rome. The other common device is bringing in outside experts.
+If no action is taken, if the team is constantly discussing it will impacts delivery. 
+
+The company will look for tools to help unlocking that from a high executive perspective: institute devices as the ARB — **Architectural Review Board**. In an attempt of not telling people what to do or owning up decisions you end up with a tribune to replicate the same discussions in public, like old Rome. The other common device is bringing in outside experts.
 
 ![ARB was set to design a better horse using Agile methods to be CI'ed. The committee delivered.](images/horso.jpg)
 
