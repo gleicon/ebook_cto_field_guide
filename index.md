@@ -489,6 +489,8 @@ Each and every team/squad/tribe requires individuals of all chapters (discipline
 
 This also creates some confusion and loosening accountability up until the general manager/tribe lead. All groups want a saying and should they balance their solid/dotted line hierarchy to do that ? Or the tribe lead ?
 
+Using the old RASCI matrix may help but I found out that the R and A matters the most. Ask: "Who is responsible to get things done, who will be accountable if they don't".
+
 Abstract all that and connect to your abstraction of choice. Follow the money: once you know productivity and prioritisation flows plus the metrics that ensure a healthy engineering org, how do you influence it ? If it all goes away, how would you reorganise your team ? How you deal with conflicts across "tribes" ?
 
 ##### Pros: one stop shop for business verticals, quick reaction time to day to day business needs
@@ -499,7 +501,7 @@ Emulating a small company you can move fast and absorb local optimisation and de
 
 Matrix reports and their decision are a thing — a head of product for the company may not be happy if they can't do portfolio management. A CTO may not be happy if they can't do tech visions and engineering. A lot of intra tribe decisions trickle out to the origin organisations. 
 
-Cross tribe work is always painful. A local priority always takes over a distributed priority — "Hurr the CEO is the tribe master and can fix it etc" — remember what real tribes did in the past when they met: Killed each other, conquered territories based on not knowing each other language. Be mindful of names and behaviours. 
+Cross tribe work is always painful. A local priority always takes over a distributed priority — you will hear that "The CEO is the tribe master and can fix it etc" — remember what real tribes did in the past when they met: Killed each other, conquered territories based on not knowing each other language. Be mindful of names and behaviours.
 
 #### Can’t prioritise and execute cross business or engineering tasks
 
@@ -509,12 +511,12 @@ Shared efforts are hard to push. Some decisions coming from Legal, Finance and I
 
 Organisations that were not born this way (most if not all of them) may have shared codebase and processes. Who owns them prior to a big micro service split and rewrite ? Look up for teams called "ACME", "ATLAS", "PHOENIX" or "SKUNKWORKS" that "takes care of what no one is looking for"
 
-![BUs with Engineering Horizontals](images/BU and Eng Horizontals.png)
+![BUs with Engineering Horizontals](images/bu_and_eng_horizontals.png)
 Vertical Tribes over a thin engineering horizontal and a catch all back office team
 
 The tribe model is too stretched, as we discussed cross business concerns are spread across individuals, it is hard to identify duplicated decisions and structures: If I don’t like your mobile framework, should I adopt a new one ? The cost of discussing it through the CTO may make deciding locally attractive. 
 
-![BUs with Business and Engineering Horizontals](images/BU w Business horizontals.png)
+![BUs with Business and Engineering Horizontals](images/bu_w_business_horizontals.png)
 A balanced approach for fast product teams taking in account the engineering and business undifferentiated lifting
 
 After these stretches most organisations approach the independence problem from a Business Area with shared P&L (profit and loss) perspective, looking where sharing can optimise cost and speed. All that to say we always revert to the same model.
