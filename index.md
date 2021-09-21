@@ -289,9 +289,9 @@ Your job requires a set of skills and ownership hard to achieve first hand so em
 
 ### TL;DR
 
-Don't hesitate to try your hand on technical management if you considered that for at least 1 minute in the recent past. You can try it, you won't lose what you know and the world needs better leaders. The transition may looks tough, but refer to the text above and push forward.
+Don't hesitate to migrate to management if you considered that for at least 1 minute in the recent past. You safely can try it, you won't lose what you know and the world needs better leaders. The transition may looks tough, but doable. 
 
-You should keep working on being technically relevant, without competing with your team or letting your ego go. You must give and ask for feedback and remember that you are accountable for both.
+You will be technically relevant, without competing with your team or letting your ego go. You will give and ask for feedback and remember that you are accountable for both aspects of the work.
 
 To be actively learning is important to relate to what your team does. You can be the person they go to get consultation and even not being actively developing software you can coach them to find out the answer or call out silly requirements. 
 
