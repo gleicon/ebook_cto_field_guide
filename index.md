@@ -64,7 +64,7 @@ Management/Engineering ladder or Y career model is a term used to describe diffe
 
 At the time I did my transition the myth of the Y Career was strong in promises but rare in opportunities — manager to tech leads ratio was way over 10 to 1 at most companies. 
 
-We, the tech team were told that managers were people that "are doing the boring HR work" or "isolating us from business requests" and that by working hard we could aim to a place where money and benefits were equal to managers and that would be life.
+The tech team were told that managers were people that "are doing the boring HR work" or "isolating us from business requests" and that by working hard we could aim to a place where money and benefits were equal to managers and that would be life.
 
 Don't take me bad - I believe the Y career model is a good temporary step while the company can't equal compensation and accountability to every member in the team based in their importance in a transparent way. It is a patch to the 1950s corporate ladder all companies implement, where becoming a manager was the end goal for employees and it didn't made sense to compensate commodity workers in the same way you did executives.
 
@@ -82,29 +82,35 @@ Over time, I had the feeling that being a technical contributor was not enough i
 
 Considering past opportunities that I declined in favor of not believing in the traditional management career, at some point I started to believe that I had to experiment this change.
 
+#### Leading vs Managing
+
 I knew what I did, I knew what I didn't like my managers did and I had some good role models, so why not ? I knew the [golden rule](https://en.wikipedia.org/wiki/Golden_Rule) so that should be easy right ? 
 
 Wrong. The first barrier to overcome was that I didn't know it was possible to me to be a manager, therefore I've had convinced myself to not pursue it first because it seemed unattainable to get there and then under the "boring non-tech work" excuse.
 
-What did you think when you saw your manager or director cruising away in a big car in your first job ? In which order "I could do that" came to your mind ? It was hard to me to relate how people got into this position. Actually I've never questioned it. It looked like they were born like that.
+What did you think when you saw your manager or director cruising away in a big car in your first job ? In which order "I could do that" came to your mind ? It was hard to me to relate how people got into this position. I've had never questioned that.
 
-After the aforementioned "I know how to do it" moment, I committed to myself that I'd embrace the next opportunity to lead a team and apply the same energy I did when learning a new language or on-boarding into a new company. I've vowed to start small leveraging what I knew, studying with the few technical managers available and trying to avoid making mistakes.
+After the aforementioned "I know how to do it" moment, I committed to myself that I'd embrace the next opportunity to lead a team and apply the same energy I did when learning a new language or on-boarding into a new company, to start small leveraging what I knew.
+
+Everyone can and should lead and that's different from managing. To manage is to care about time, outcome, expectation and a world of nice words. To lead is connected to action and execution.
 
 #### Saying No and Adapting
 
-The timing of my career change was funny - the company I was working with was doing great financially but having problems on engineering and product. Managers where quitting or being fired and at some point someone was needed to help a team that worked with a legacy product no one wanted to touch. I was lucky to be in the right place.
+The timing of my career change was interesting - the company I was working with was doing great financially but having problems on engineering and product. Managers where leaving and at some point someone was needed to help a team that worked with a legacy product no one wanted to touch. I was lucky to be in the right place.
 
-I've approached the challenge trying to avoid too many mistakes but eager to learn what would be my new career. Turns out I did a lot of them. 
+I've approached the challenge trying to avoid too many mistakes but eager to learn what would be my new career. Turns out I did a lot of them.
 
 And while I was learning, my responsibilities increased. I started small (a 4 people team) and quickly saw myself managing half of the company tech team for reasons I should put in another post. **One of the most common mistakes is not learning to say "No" soon enough**.
 
-The only advice I had was **"be careful to not back into your comfort zone"** meaning I shouldn't not compete with the team by coding or making their decisions when I faced some uncomfortable situation. And I had them, I took some time to "read the room" and understand the chaos and power plays. Luckily my technical background helped me a lot on the oncoming firefighting.
+The only advice I had was **"be careful to not back into your comfort zone"** meaning I shouldn't not compete with the team by coding or making their decisions when I faced some uncomfortable situations where I questioned my choice. 
+
+If you are in this situation you will remember fondly the time when you just coded, but think again - you never did that if you were leading. We tend to see the past in warm colours.
 
 Over time the people I managed changed, naturally as the people joining companies changed too. Furthermore my management style had to **adapt**, in communication and expectations.
 
-**Adapting** meant trying to figure out how my team expectations changed. A generation ago the main concern was to lose your job, today companies have a hard time recruiting because good technical people don't want to have a job for a long time without meaningful space to have an impact. Around the same time getting straight tickets of what to do was a plus and now it is unthinkable to not involve your team on prioritization. Same for tech stack and infrastructure.
+**Adapting** meant trying to figure out how my team expectations changed. A generation ago the main concern was to lose your job, today companies have a hard time recruiting because good technical people don't want to have a job for a long time without meaningful space to have an impact. Around the same time getting straight tickets of what to do was a plus and now it is unthinkable to not involve your team on prioritization. 
 
-I had the luck of having worked with the best people around and see a lot of them becoming managers, tech leads, working abroad and competing with good advantage to people from countries that put more emphasis in tech than Brazil. That makes me proud and my life was easier because of them.
+I had the luck of had worked with the best people around and see a lot of them becoming managers, tech leads, working abroad and competing with good advantage to people from countries that put more emphasis in tech than Brazil. That makes me proud and my life was easier because of them.
 
 ### Know your team
 
@@ -118,7 +124,7 @@ I also learned that **Leadership emerges**. Pay attention to who you work with, 
 
 Regardless of how much importance is put in tech teams in a company, people are their most powerful asset. This sounds cheesy, but both in companies that hire 100s of developers and tech is seem as a commodity than for companies that have a small team which holds the company's life in their hands, people make the difference.
 
-You know that when you work as a tech contributor in the team, you see things from a different angle than when you are managing a team. Especially when 2 weeks after you arrive you find out they are leaving due for any reason: a new company in the market paying more, the former manager messed up, a key person left or excess work was put over them. 
+When you work as a tech contributor in the team, you see things from a different angle than when you are managing a team. It hits specially hard when 2 weeks after you arrive you find out people are leaving for any reason: a new company in the market paying more, the former manager messed up, a key person left or excess work.
 
 When it happened to me, I didn't knew what to do, but a friend told me to start hiring. Tough luck if it happens to you but do not lose hope, it happens. You will have plenty of opportunities to mess up, but if you are just getting there, this one wasn’t your fault. 
 
@@ -233,11 +239,13 @@ As we saw in the adjustments from Yahoo, Amazon and Facebook that we could track
 [**Disagree and commit - Wikipedia**
 *Disagree and commit is a management principle which states that individuals are allowed to disagree while a decision is…*en.wikipedia.org](https://en.wikipedia.org/wiki/Disagree_and_commit)
 
-In an ideal team context, discussions would not veer too far of what the culture dictates. Some people will be more laid back, others more vocal. Once in a while, you will have an argument but usually it settles back. When tech management is lacking, there will be long discussions. 
+Ideally discussions would not extend beyond what the culture support. Some people will be more laid back, others more vocal. Once in a while, you will have an argument but usually it settles back. When tech management is lacking, there will be long discussions.
 
-The gauge to me is that as the discussion grows, if no action is taken, no one moves, it quickly becomes meaningless. It becomes an ego exercise as I mentioned before for bikeshedding.
+It is useful to me to track if no action is taken while the discussion volume increases. If no action is taken, no one moves, it quickly becomes meaningless. It becomes an ego exercise as I mentioned before for bikeshedding.
 
-If this is frequent and impacting delivery, the company will look for tools that makes sense looking from a high executive position: institute devices as the ARB — **Architectural Review Board**. In an attempt of not telling people what to do or owning up decisions you end up with a tribune to replicate the same discussions in public, like old Rome. The other common device is bringing in outside experts.
+If no action is taken, if the team is constantly discussing it will impacts delivery. 
+
+The company will look for tools to help unlocking that from a high executive perspective: institute devices as the ARB — **Architectural Review Board**. In an attempt of not telling people what to do or owning up decisions you end up with a tribune to replicate the same discussions in public, like old Rome. The other common device is bringing in outside experts.
 
 ![ARB was set to design a better horse using Agile methods to be CI'ed. The committee delivered.](images/horso.jpg)
 
@@ -281,9 +289,9 @@ Your job requires a set of skills and ownership hard to achieve first hand so em
 
 ### TL;DR
 
-Don't hesitate to try your hand on technical management if you considered that for at least 1 minute in the recent past. You can try it, you won't lose what you know and the world needs better leaders. The transition may looks tough, but refer to the text above and push forward.
+Don't hesitate to migrate to management if you considered that for at least 1 minute in the recent past. You can safely try it, you won't lose what you know and the world needs better leaders. The transition may looks tough, but doable. 
 
-You should keep working on being technically relevant, without competing with your team or letting your ego go. You must give and ask for feedback and remember that you are accountable for both.
+You will be technically relevant, without competing with your team or letting your ego go. You will give and ask for feedback and remember that you are accountable for both aspects of the work.
 
 To be actively learning is important to relate to what your team does. You can be the person they go to get consultation and even not being actively developing software you can coach them to find out the answer or call out silly requirements. 
 
@@ -295,19 +303,23 @@ And now, let's go for The Plan !
 
 ### The plan
 
-Before starting the new gig, even if the only time you have is the weekend before starting your new position, put a plan together. It doesn't need to be complex but it has to have a path to start, which you can go back after a full day and recognise. 
+Before starting the new gig, even if the only time you have is the weekend before starting your new position, put a plan together. It doesn't need to be complex but it has to have a path to start, which you can go back after a full day and see progress.
 
-You probably don't need or will follow all items in there but it is a good baseline to learn how you evolved later on. It is good to look back and see how naive or to the point you were planning your new endeavour. 
+You probably don't need or will check all items in there but it is a good baseline to learn how you evolved later on. It is good to look back and see how naive or to the point you were planning your start. 
 
-I created a slide deck to help organise the plan. It has high level questions based on items I describe in this post. The order is flexible too. It is a template and a guideline you can expand for your due diligence. You can [find it here](https://docs.google.com/presentation/d/1KCh-gzfWYL-EcBQBS19ESPHwsfnubr7m8hKaXshH8Hw/edit?usp=sharing). 
+I created a slide deck to help organise this plan. It has high level questions based on items I describe in this book. The order is flexible. 
 
-Ideally you will make notes after each section or subsection to revisit later or measure. The plan is to learn. There are advices throughout the text that you may or may not follow but use it to set up your baseline. The order is sugggested based on information you need to learn for each step.
+It is a template and a guideline you can expand for your due diligence too if you end working on an M&A (Merge and Acquisition). You can [find it here](https://docs.google.com/presentation/d/1KCh-gzfWYL-EcBQBS19ESPHwsfnubr7m8hKaXshH8Hw/edit?usp=sharing). 
+
+Ideally you will make notes after each section or subsection to revisit later or measure. The plan is to learn. The order is suggested based on information you need to learn to complete each step.
 
 ### Learning and Measuring
 
-So, how do you say something is good or bad ? How do you demonstrate things that are obvious to you but not so obvious to the person or group you are talking to ? Apart from telepathy you can use known baselines and metrics from companies that you can relate and derive them. After some time repeating "we did that in company X or Y" gets tired as you are not there anymore, your team does not works there. So having a simple deriving path help other people learn what you know, which is the first step to influence them.
+So, how do you say something is good or bad ? How do you demonstrate things that are obvious to you but not so obvious to the person or group you are talking to ? Apart from telepathy you can use known baselines and metrics from companies that you can relate and derive them. 
 
-I've grouped what concerns me when I want to make an assessment in four sections. For each one of the sections I've put together baseline metrics or concepts. Some are obvious as smarter people came before us and studied them, some of them require some imagination. 
+After some time repeating "we did that in company X or Y" gets tired as you are not there anymore, your team does not works there. So having a simple deriving path help other people learn what you know, which is the first step to influence them.
+
+I've grouped what concerns me when I make an assessment in four sections. For each one of the sections I've put together baseline metrics or concepts. Some are obvious as smarter people came before us and studied them, some of them require some imagination. 
 
 #### Engineering Delivery Metrics
 
@@ -489,6 +501,8 @@ Each and every team/squad/tribe requires individuals of all chapters (discipline
 
 This also creates some confusion and loosening accountability up until the general manager/tribe lead. All groups want a saying and should they balance their solid/dotted line hierarchy to do that ? Or the tribe lead ?
 
+Using the old RASCI matrix may help but I found out that the R and A matters the most. Ask: "Who is responsible to get things done, who will be accountable if they don't".
+
 Abstract all that and connect to your abstraction of choice. Follow the money: once you know productivity and prioritisation flows plus the metrics that ensure a healthy engineering org, how do you influence it ? If it all goes away, how would you reorganise your team ? How you deal with conflicts across "tribes" ?
 
 ##### Pros: one stop shop for business verticals, quick reaction time to day to day business needs
@@ -499,7 +513,7 @@ Emulating a small company you can move fast and absorb local optimisation and de
 
 Matrix reports and their decision are a thing — a head of product for the company may not be happy if they can't do portfolio management. A CTO may not be happy if they can't do tech visions and engineering. A lot of intra tribe decisions trickle out to the origin organisations. 
 
-Cross tribe work is always painful. A local priority always takes over a distributed priority — "Hurr the CEO is the tribe master and can fix it etc" — remember what real tribes did in the past when they met: Killed each other, conquered territories based on not knowing each other language. Be mindful of names and behaviours. 
+Cross tribe work is always painful. A local priority always takes over a distributed priority — you will hear that "The CEO is the tribe master and can fix it etc" — remember what real tribes did in the past when they met: Killed each other, conquered territories based on not knowing each other language. Be mindful of names and behaviours.
 
 #### Can’t prioritise and execute cross business or engineering tasks
 
@@ -509,12 +523,12 @@ Shared efforts are hard to push. Some decisions coming from Legal, Finance and I
 
 Organisations that were not born this way (most if not all of them) may have shared codebase and processes. Who owns them prior to a big micro service split and rewrite ? Look up for teams called "ACME", "ATLAS", "PHOENIX" or "SKUNKWORKS" that "takes care of what no one is looking for"
 
-![BUs with Engineering Horizontals](images/BU and Eng Horizontals.png)
+![BUs with Engineering Horizontals](images/bu_and_eng_horizontals.png)
 Vertical Tribes over a thin engineering horizontal and a catch all back office team
 
 The tribe model is too stretched, as we discussed cross business concerns are spread across individuals, it is hard to identify duplicated decisions and structures: If I don’t like your mobile framework, should I adopt a new one ? The cost of discussing it through the CTO may make deciding locally attractive. 
 
-![BUs with Business and Engineering Horizontals](images/BU w Business horizontals.png)
+![BUs with Business and Engineering Horizontals](images/bu_w_business_horizontals.png)
 A balanced approach for fast product teams taking in account the engineering and business undifferentiated lifting
 
 After these stretches most organisations approach the independence problem from a Business Area with shared P&L (profit and loss) perspective, looking where sharing can optimise cost and speed. All that to say we always revert to the same model.
@@ -724,12 +738,12 @@ I've found out a set of advices from Amazon on writing in [this book](https://ww
 	The summary is to take as stand and own what you are communicating or want to do. There are meetings and presentations that can be productive and others that go everywhere and leaves the audience frustrated as no decision was made. 
 	Writing straight to the point means you know what you want and that's progress.
 
-I am not a native English speaker so writing was hard for a while. [The book On Writing Well](https://www.amazon.com/dp/B0090RVGW0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) helped me a lot. It was written before electronic communication but contains good advice and exercises. Work on it, communicating well is required.
+I am not a native English speaker so writing was hard for a while. [On Writing Well](https://www.amazon.com/dp/B0090RVGW0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) provides actionable advice and helped me a lot. Work on it, communicating well is required.
 
 #### Real final advice I promise
 And finally, you are the outsider, people tend to think the past was better than it really was. If there is a team, they will probably project on you the changes at some point. 
 
-Breathe, give some space. Be kind to yourself and straight clear when people step over your boundaries. 
+Breathe, give some space. Be kind to yourself and straight clear when people step over your boundaries.
 
 Have fun !
 
