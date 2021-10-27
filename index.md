@@ -130,7 +130,7 @@ When it happened to me, I didn't knew what to do, but a friend told me to start 
 
 People have to feel **purpose** to perform well. They should feel that they belong to something and feel that whoever is leading supports and works to keep them safe. Safe as in "if you own it we have your back". Safety in terms of expressing what they think, support when trying and failing, getting rid of jerks and coaching everyone to be a potential leader.
 
-**Purpose** is not only collecting their salary or vesting stock — this is good and necessary as much as impact on their industry and for themselves. But growing up, saving money, helping people to move on their careers, make successful products and get better. All of this is subjective and very particular but impossible to ignore. Learning what is the purpose of each person on your team is necessary.
+**Purpose** is not only collecting their salary or vesting stock — this is good and necessary as much as impact on their industry and for themselves. But growing up, saving money, helping people to move on their careers, make successful products and get better. All of this is subjective and very particular but impossible to ignore. Learning what is the purpose of each person on your team is necessary for your own growth. Have empathy.
 
 #### Team culture
 
@@ -255,9 +255,9 @@ It feels different than "disagree and commit", it is a "sit down and be quiet". 
 
 This may cause middle manager leadership to leave, which is a team as hard to build as a good engineering team. Naturally we think that if the not-so-good people leave we will be in a good spot but that's rarely the case alone. There will be different composition to the horde of unhappy, and there is a cascading effect coming from the conversation this team have out of band. It is more common that competent people leaves altogether. 
 
-#### Processes (why I learned to own production)
+#### Processes (or why I learned to own production)
 
-Another "disagree and commit" point are processes. Traditional companies resort to ITIL or other traditional IT methodologies in hope that it helps figure out operations and delivery. When it gets to development, the same formula is applied with Agile methodologies or equivalent factory based ideas.
+Another "disagree and commit" point are processes. Traditional companies resort to ITIL an traditional IT methodologies in hope that it helps figure out operations and delivery. When it gets to development, the same formula is applied with Agile methodologies or equivalent factory based ideas.
 
 In both Development and Operations cases teams are assembled around these processes and meetings scheduled to link them to existing processes, converging to a spreadsheet and someone asking why deadlines are not being respected or how can we shrink the budget. Corporate managers versus Technical Managers.
 
@@ -307,9 +307,9 @@ Before starting the new gig, even if the only time you have is the weekend befor
 
 You probably don't need or will check all items in there but it is a good baseline to learn how you evolved later on. It is good to look back and see how naive or to the point you were planning your start. 
 
-I created a slide deck to help organise this plan. It has high level questions based on items I describe in this book. The order is flexible. 
+I created a slide deck to help organize this plan. It has high level questions based on items I describe in this book. You don't need to stick to the order there but you will see that there are some dependencies. You can [find it here](https://docs.google.com/presentation/d/1KCh-gzfWYL-EcBQBS19ESPHwsfnubr7m8hKaXshH8Hw/edit?usp=sharing). 
 
-It is a template and a guideline you can expand for your due diligence too if you end working on an M&A (Merge and Acquisition). You can [find it here](https://docs.google.com/presentation/d/1KCh-gzfWYL-EcBQBS19ESPHwsfnubr7m8hKaXshH8Hw/edit?usp=sharing). 
+You can expand for your due diligence too if you end working on an M&A (Merge and Acquisition). At some sales processes you will be asked for questions and records on due diligence and that can help.
 
 Ideally you will make notes after each section or subsection to revisit later or measure. The plan is to learn. The order is suggested based on information you need to learn to complete each step.
 
@@ -325,9 +325,9 @@ I've grouped what concerns me when I make an assessment in four sections. For ea
 
 The first four metrics I've borrowed from the Accelerate book. If you have not read it, you should. It is a book based on research and as good research you will find a good taxonomy and baseline. [Accelerate | by Nicole Forsgren, Jez Humble & Gene Kim](https://itrevolution.com/book/accelerate/).
 
-The rational is: with the tools we have today, deploying should not be a problem and by deploying often we are able to fix what hurts us in the process. With that in mind we can look how a range of organisations are behaving, abstracting their internal decision path and focusing on metrics that are common across them. 
+The rational is: with the tools we have today, deploying should not be a problem and by deploying often we are able to fix what hurts us in the process. With that in mind we can look how a range of organizations are behaving, abstracting their internal decision path and focusing on metrics that are common across them. 
 
-There is a world of issues and problems in the way, ranging from quality to compliance but the idea is to iterate over this process to achieve a high rate of deployment with a low lead time and time to recover while measuring how failure happens. So this are the first four metrics to look for. They are there, somewhere in your organisation.
+There is a world of issues and problems in the way, ranging from quality to compliance but the idea is to iterate over this process to achieve a high rate of deployment with a low lead time and time to recover while measuring how failure happens. So this are the first four metrics to look for. They are there, somewhere in your organization.
 
 	* Deployment Frequency
 	* Lead time for changes
@@ -338,9 +338,9 @@ I've added a metric of empathy to the folks that get the first call at your comp
 
 	* Incidents count per week
 
-This is an important reality check on resourcing and prioritising within teams, and often overlooked as "Stakeholder management issues". A lot of shadow work by your team is done to mitigate or compensate for this. Looking at change failure rate prevents its increase but having a strong foothold on incidents helps understand if all that you are doing is everything that should be done. 
+This is an important reality check on resourcing and prioritizing within teams, and often overlooked as "Stakeholder management issues". A lot of shadow work by your team is done to mitigate or compensate for this. Looking at change failure rate prevents its increase but having a strong foothold on incidents helps understand if all that you are doing is everything that should be done. 
 
-If you hear that your organisation was "Sales Oriented" it becomes important as a way to gauge side effects of technical debt. A "sales request to feature" flow is no different than the "product feature request to code" flow if you don't take in account how your systems break and in which way they affect your customer life. 
+If you hear that your organization was "Sales Oriented" it becomes important as a way to gauge side effects of technical debt. A "sales request to feature" flow is no different than the "product feature request to code" flow if you don't take in account how your systems break and in which way they affect your customer life. 
 
 I've also added some metrics for my friends at the CFO office, under the umbrella of Cloud Economics: 
 
@@ -359,7 +359,7 @@ I've lost count of times spent having to work overtime to reduce unexpected clou
 
 Here the term "metrics" is loose: look for and quantify how the team is working now, without prejudice or trying to change it. Map it well to try to find why it is like this, and what is the measure of success of each decision.
 
-##### How does the current organisation work ?
+##### How does the current organization work ?
 
 You will face a number of terms that may be familiar but are used with different meanings within the company. Teams, squads, tribes, chapters, guilds, teams (again for the sake of sanity), business units, great areas etc. Learn them, connect with the language. Build a glossary. 
 
@@ -367,17 +367,17 @@ You will face a number of terms that may be familiar but are used with different
 
 It is important to map where people don't want to work (the haunted teams), where are the heroes, where the real work happens and the territories. Yes territories, you may question why Team A has 30 people, all looking fresh and nice and why Team B have 2 disgruntled engineers. Learn this, it may be the reason you were brought in. By stretched managers I mean teams that should be split of managers accumulating teams.
 
-##### Work distribution issues: work that should be done elsewhere, duplicated work, prioritisation
+##### Work distribution issues: work that should be done elsewhere, duplicated work, prioritization
 
-The side-effect of siloed organisations (teams, tribes, squads) is that one way out of an argument is to duplicate work. This may be a strength or as most of the times, waste of energy. Look for work done within a tech team and/or by a product manager that should be automated or executed elsewhere. Mark it. Also look how prioritisation and escalation works. 
+The side-effect of siloed organizations (teams, tribes, squads) is that one way out of an argument is to duplicate work. This may be a strength or as most of the times, waste of energy. Look for work done within a tech team and/or by a product manager that should be automated or executed elsewhere. Mark it. Also look how prioritization and escalation works. 
 
-Who or which group call the shots ? How people know what to do. Look closely for slack channels that are used as "help" or "listening" channels with dynamics of people trying to get attention. Attend as many prioritisation and planning ritual as you can to gather field experience. 
+Who or which group call the shots ? How people know what to do. Look closely for slack channels that are used as "help" or "listening" channels with dynamics of people trying to get attention. Attend as many prioritization and planning ritual as you can to gather field experience. 
 
-Try to understand if escalations are done through "old friends" or is methodical. By escalations I mean any decision that could not be decided by peers or stakeholders and go up the chain to the CEO or other executive. If escalations is how most of things are decided and can undermine the belief on any prioritisation process.
+Try to understand if escalations are done through "old friends" or is methodical. By escalations I mean any decision that could not be decided by peers or stakeholders and go up the chain to the CEO or other executive. If escalations is how most of things are decided and can undermine the belief on any prioritization process.
 
 ##### What is the priority definition between engineering and products ?
 
-Is there a set of rules for deciding what to do ? Are there teams that feel "priority changes every time"? Have you heard "I am no people manager, just X manager" ? Is there a good positive tension between engineering and product people to decide what to do ? Does product work sounds like project management and engineering as body shop ? Take a note, you may need to figure out a standard prioritisation process for everyone. A good team is a team where everyone has a voice. 
+Is there a set of rules for deciding what to do ? Are there teams that feel "priority changes every time"? Have you heard "I am no people manager, just X manager" ? Is there a good positive tension between engineering and product people to decide what to do ? Does product work sounds like project management and engineering as body shop ? Take a note, you may need to figure out a standard prioritization process for everyone. A good team is a team where everyone has a voice. 
 
 ##### What is the decision making process (RFC, committee, go horse)? 
 
@@ -389,20 +389,24 @@ Figure it out if there is a small group of people that make these calls — 
 
 ##### Are there clear leveling for ICs(Individual contributors) and Managers ?
 
-First order of the day: how do you evaluate, give feedback and help your team to grow ? Look for you company's career ladder, if you find none — it is one of the things you need to kickstart right away. You can get inspired at engineering ladders and levels.fyi. I've built an engineering/manager ladder based on what I've been using. 
+First order of the day: how do you evaluate, give feedback and help your team to grow ? Look for you company's career ladder, if you find none — it is one of the things you need to kickstart right away. 
+
+You can get inspired at [Engineering Ladders](http://www.engineeringladders.com/) for existing ladders and [Levels.fyi](https://levels.fyi) for how they compare across companies. 
+
+I've put together an engineering/manager ladder based on what I've been using, based on impact and scope (reach within and outside the team) with parallels on both tracks. 
 
 [An Engineering Ladder Example](https://drive.google.com/file/d/1vSe3gr-gLainl8cLhFLsGVY4odE9GrA6/view?usp=sharing) 
 
 Look for performance reviews and any document for your direct reports. No performance cycle process ? That's a consequence of a good ladder and there are tools to help automate it. You can do it straight on spreadsheets if needed.
 
-No team will be healthy without knowing where they and, where they will go and without candid feedback about their performance and growth. Also remember there is no Y career — you need both careers (management and engineering) and a good write up on how the pendulum works there. Look at [Engineering Ladders](http://www.engineeringladders.com/) for existing ladders and [Levels.fyi](https://levels.fyi) for how they compare across companies.
+No team will be healthy without knowing where they and, where they will go and without candid feedback about their performance and growth. Also remember there is no Y career — you need both careers (management and engineering) and a good write up on how the pendulum works there.
 
-#### HR and Engineering Organisation insights
+#### HR and Engineering Organization insights
 
 The questions below are to give you an insight of how HR interacts with the engineering team. There are companies where both teams seem to be at war and others where they work well. There is information that you will only learn in a neutral way by collaborating with your HR partner. 
 Most of what you will have to work with people in your team you can only solve with them, for expertise and safety sake. You will find plenty of corporate disasters that could be avoided just by looping someone more experienced from HR to help or lead a conversation.
 
-##### How is hiring organised ? Is everyone helping ? What are the goals ?
+##### How is hiring organized ? Is everyone helping ? What are the goals ?
 
 Hiring is everyone's job and highest priority. No "I can't interview because I'm putting out these fires" or "I can't talk to you because you are always on interviews". A lot of problems in engineering are due to poorly staffed teams. Work on it. If you don't know where to start, use my template:
 
@@ -410,23 +414,35 @@ Hiring is everyone's job and highest priority. No "I can't interview because I'm
 
 Make it so at least 3 people interview a candidate, one of them someone with good people skills (HR partner). Gather everyone together, compare notes and make a call based on how you all read the candidate. Ask the hard questions beyond "cultural fit". You don't want someone tame or aggressive, friend or public figure - you want the best for the team.
 
-It is easy once you start organising a basic interview guideline and a process where you ensure no biases are applied — it can use a daily or weekly committee to quickly assess the notes you took while interviewing. You take notes when you interview someone, right ? 
+It is easy once you start organizing a basic interview guideline and a process where you ensure no biases are applied — it can use a daily or weekly committee to quickly assess the notes you took while interviewing. You take notes when you interview someone, right ? 
 
-##### Are there hidden functions ? (Infosec done by a SRE, prioritisation done by committees) ?
+##### Are there hidden functions ? (Infosec done by a SRE, prioritization done by committees) ?
 
-Understaffed teams have a reason: no headcount, no leadership, reorgs, acquisitions, bad leadership. You have to learn about them and the whys. Prioritisation done by committees appear here because that's the tool of micromanagers. Decisions require owners, the best teams own their decisions. The mediocre ones wait on external guidelines and quality of work suffer. You want to know about that. 
+Understaffed teams have a reason: no headcount, no leadership, reorgs, acquisitions, bad leadership. You have to learn about them and the whys. Prioritization done by committees appear here because that's the tool of micromanagers. Decisions require owners, the best teams own their decisions. The mediocre ones wait on external guidelines and quality of work suffer. You want to know about that. 
 
 ##### Any functions/procedures depend on a single individual ? (e.g. the person that knows legacy code or how to deploy, or point of contact to solve an issue)
 
 No heroes, no bus factor should be allowed for the sake of people's mental health. If you have them, HR can tell you the reason: new engineers only go for the nice frontend project, product is being discontinued, no one can put up to work with this or that person and so on. Something is up and you wanna know upfront.
 
-##### Any team missing ? Infosec, SRE or Platform infrastructure, Engineering tools, Data engineering, Data Science, Product Engineering, Digital channels, Notifications teams ? The big rewrite team ? The team that should manage the legacy while the rewrite team is doing their thing ?
+##### Any team missing or leaving altogether ? Infosec, SRE or Platform infrastructure, Engineering tools, Data engineering, Data Science, Product Engineering, Digital channels, Notifications teams ? The big rewrite team ? The team that should manage the legacy while the rewrite team is doing their thing ?
 
-Staffing decisions again, you need context and history. Managers tend to leave a trail of destruction behind when they are under pressure and decide to leave. If you are joining a company or team because of that, look further.
+Staffing decisions that you need context and history. Managers tend to leave a trail of destruction behind when they are under pressure and decide to leave. If you are joining a company or team because of that, look further. 
+
+There might be provisions for teams that can't be built. There are commitments that won't be fulfilled just by hiring. 
 
 ##### Is remote work allowed ? Is it successful ?
 
-How do you do it, how do you measure it. Tip: if remote work doesn't work for you, look up the chain of command. A good manager is required for remote team to be successful — good in the sense of communicating well, planning ahead and knowing how to organise team rituals.
+How do you do it, how do you measure it. Tip: if remote work doesn't work for you, look up the chain of command. A good manager is required for remote team to be successful — good in the sense of communicating well, planning ahead and knowing how to organize team rituals.
+
+###### Pandemic add-on
+
+We don't know how the world will be as we learn and adapt to all that happened but remote work was not optional. We got isolated and highly anxious about all things that we had for granted in the office.
+
+The above applies - successful teams were able to navigate mostly due to reasonable management practices, sometimes leaning on the side of overworking and finding out adjustments.
+
+I suggest you to run periodic surveys - it can be a simple NPS form or "What to start/stop/continue doing" format to assess team dynamics.
+
+Also companies that had written practices as RFC, PRD, WIKIs and collaborative documents thrived as their async nature helped a lot. Hashicorp, makers of Terraform and other tools [shared their written practices](https://works.hashicorp.com/articles/writing-practices-and-culture).
 
 #### Operations
 
@@ -437,6 +453,7 @@ I'll use "Operations" as a generic fallback for day to day stuff that I have not
 How do you know an incident from a bug ? Who listens first ? The CEO complaining in a public channel on Slack ? A loud person in the office crashing the coffee room looking for a senior engineer ? How does it help people now being interrupted unless something is really important ? How comfortable people outside of tech feel about its precision ?
 
 ##### Is there an incident severity matrix, blameless postmortems and product feedback ?
+
 Same as above: what is important, what is not ? At e-commerces companies, the purchase flow is king. Payment is important for most companies, conversion metrics, availability of the main website, server provisioning. 
 
 When something is down or broken and the team fixes it, how do they learn about it ? How do they make sure they will have time to fix it instead of implementing a new feature ?
@@ -449,20 +466,21 @@ When something is down or broken and the team fixes it, how do they learn about 
 
 Let me take this out of the way first: If you have an OKR or equivalent to measure closed bugs, kill it. Same for yearly bonuses triggered by some flat metric as "closed JIRA tickets". They set the wrong incentives, working on bugs, legacy code, improving quality is everyone's work. 
 
-Public kudos and prizes have to be carefully put in place: which behaviour you want to foster ? How is this connected to growth expectations ? This is seen by the whole team and can create conditioning that working on bugs is less important for your career growth than working on new features. 
+Public kudos and prizes have to be carefully put in place: which behavior you want to foster ? How is this connected to growth expectations ? This is seen by the whole team and can create conditioning that working on bugs is less important for your career growth than working on new features. 
 
-How does the company deals with a misplaced incentive as someone focusing on what helps win a prize and leaving work behind ? It is common to find companies where employees with misaligned prizes (lunches, stars, days offs) are fired or leave. 
+How does the company deals with a misplaced incentive as someone focusing on what helps win a prize and leaving work behind ? It is common to find companies where employees with misaligned prizes (lunches, stars, days offs) are fired or leave.
 
-It is important for you to understand how the team is conditioned. These incentives have to be aligned with the prioritisation process that helps everyone. 
+It is important for you to understand how the team is conditioned. These incentives have to be aligned with the prioritization process that helps everyone.
 
 
 ### Challenges
 
-Joining an existing team is hard, especially if it is during or after a reorganisation. Reorganisations, or reorgs, are just a tool. Sometimes they are seen as punitive or meaningless but they are just a way of trying to tame the uncertainty of how a team should organise to achieve its objective. 
+Joining an existing team is hard, especially if it is during or after a reorganization. Reorganizations, or reorgs, are just a tool. Sometimes they are seen as punitive or meaningless but they are just a way of trying to tame the uncertainty of how a team should organize to achieve its objective. 
 
 Common questions are "Where will rejection come from ?", "What failure looks like ?", "Where are the leverages ?" and "When will the next reorg happen?"
 
 #### How the team will react to a new structure or a new high level executive ?
+
 One of the weirdest experiences you can have is to be hired and not have a defined team or role. This is when an executive is crying for help, hires a senior executive but forgets that if he can't deal with what is happening now, probably a new executive will fail. 
 
 It comes as a surprise to most CTOs and higher ups that the team is not "with them" all the time and are struggling for power — the one he delegated to a new comer. 
@@ -489,7 +507,7 @@ These are noisy but no noisier than having teams with split management: sales in
 
 ### Org Structure
 
-Every company you go nowadays you see a variation of the "Spotify Model". I won't even link because there are many posts around and I'm not sure even Spotify uses it anymore. The thing is that as it happened with Scrum, it layered roles and organisations over existing positions and teams.
+Every company you go nowadays you see a variation of the "Spotify Model". I won't even link because there are many posts around and I'm not sure even Spotify uses it anymore. The thing is that as it happened with Scrum, it layered roles and organizations over existing positions and teams.
 
 Among the many permutations that create the illusion of control you will find yourself looking for the abstractions and controls that connect with your experience. 
 
@@ -503,21 +521,21 @@ This also creates some confusion and loosening accountability up until the gener
 
 Using the old RASCI matrix may help but I found out that the R and A matters the most. Ask: "Who is responsible to get things done, who will be accountable if they don't".
 
-Abstract all that and connect to your abstraction of choice. Follow the money: once you know productivity and prioritisation flows plus the metrics that ensure a healthy engineering org, how do you influence it ? If it all goes away, how would you reorganise your team ? How you deal with conflicts across "tribes" ?
+Abstract all that and connect to your abstraction of choice. Follow the money: once you know productivity and prioritization flows plus the metrics that ensure a healthy engineering org, how do you influence it ? If it all goes away, how would you reorganize your team ? How you deal with conflicts across "tribes" ?
 
 ##### Pros: one stop shop for business verticals, quick reaction time to day to day business needs
 
-Emulating a small company you can move fast and absorb local optimisation and debts. If the business changes a lot you end up having a lot of agility to tend these changes. 
+Emulating a small company you can move fast and absorb local optimization and debts. If the business changes a lot you end up having a lot of agility to tend these changes. 
 
 ##### Cons: amplify the cost of simple decisions, as business grows it requires more high level arbitration
 
-Matrix reports and their decision are a thing — a head of product for the company may not be happy if they can't do portfolio management. A CTO may not be happy if they can't do tech visions and engineering. A lot of intra tribe decisions trickle out to the origin organisations. 
+Matrix reports and their decision are a thing — a head of product for the company may not be happy if they can't do portfolio management. A CTO may not be happy if they can't do tech visions and engineering. A lot of intra tribe decisions trickle out to the origin organizations. 
 
-Cross tribe work is always painful. A local priority always takes over a distributed priority — you will hear that "The CEO is the tribe master and can fix it etc" — remember what real tribes did in the past when they met: Killed each other, conquered territories based on not knowing each other language. Be mindful of names and behaviours.
+Cross tribe work is always painful. A local priority always takes over a distributed priority — you will hear that "The CEO is the tribe master and can fix it etc" — remember what real tribes did in the past when they met: Killed each other, conquered territories based on not knowing each other language. Be mindful of names and behaviors.
 
-#### Can’t prioritise and execute cross business or engineering tasks
+#### Can’t prioritize and execute cross business or engineering tasks
 
-Shared efforts are hard to push. Some decisions coming from Legal, Finance and Infrastructure have goals and directions that can not always be consensus driven as costs management, undifferentiated lifting, standardisation, compliance and due diligences. These are usually overseen and done in a hurry if it hurts the business.
+Shared efforts are hard to push. Some decisions coming from Legal, Finance and Infrastructure have goals and directions that can not always be consensus driven as costs management, undifferentiated lifting, standardization, compliance and due diligences. These are usually overseen and done in a hurry if it hurts the business.
 
 #### Legacy product and code management is hard
 
@@ -531,7 +549,7 @@ The tribe model is too stretched, as we discussed cross business concerns are sp
 ![BUs with Business and Engineering Horizontals](images/bu_w_business_horizontals.png)
 A balanced approach for fast product teams taking in account the engineering and business undifferentiated lifting
 
-After these stretches most organisations approach the independence problem from a Business Area with shared P&L (profit and loss) perspective, looking where sharing can optimise cost and speed. All that to say we always revert to the same model.
+After these stretches most organizations approach the independence problem from a Business Area with shared P&L (profit and loss) perspective, looking where sharing can optimize cost and speed. All that to say we always revert to the same model.
 
 	* Keep tribes where it make sense
 	* Invest on platforms, bottom heavy, light on product/customer interfaces
@@ -539,13 +557,14 @@ After these stretches most organisations approach the independence problem from 
 	* Speak product language even for internal customers
 	* Shared P&L
 
-Specifically for engineering organisations, nimbler product teams foster a strong dependency on APIs — you can't possibly predict permutations done at the edge of the product so sticking to strong APIs is a proven strategy.
+Specifically for engineering organizations, nimbler product teams foster a strong dependency on APIs — you can't possibly predict permutations done at the edge of the product so sticking to strong APIs is a proven strategy.
 
 Authentication, API management, InfoSec, Notification service, Digital channels management, Design, Cloud Economics, Developer tooling, Analytics and Data Engineering are naturally shared and costly to replicate locally. 
 
 These efforts benefit teams outside of technology or tribes and they are benefited from a solid strategy and operational efficiency. Undifferentiated lifting should be done once and for all.
 
 ### Delivery
+
 I've mentioned the Accelerate book before and it provides a good framework to evaluate delivery. When I say delivery I mean the mix of running your systems and all activities connected to it, including building and shipping code and how it affects your customers. 
 
 Back in the day everything was slow and manual but after the wide adoption of cloud providers and disciplines as Devops, SRE and Production Engineering the effort of engineers in these teams are set to simplify operations through automation. 
@@ -560,9 +579,9 @@ A code template tool, abstraction to make engineering work secure and repeatable
 
 #### Enable accessible CD through GitOps
 
-Deploys should not be rituals. You need a way to track them but they should be done multiple times a day in a way that you can assess if prioritisation, complexity or lack of purpose is the problem. Not access, arcane knowledge or risky environments. Having them integrated on how you build code is key. When code is merged, it goes to production. No special control panels. 
+Deploys should not be rituals. You need a way to track them but they should be done multiple times a day in a way that you can assess if prioritization, complexity or lack of purpose is the problem. Not access, arcane knowledge or risky environments. Having them integrated on how you build code is key. When code is merged, it goes to production. No special control panels. 
 
-Look for at least 70% of infra/deploys to be uniform, leave corner cases for data and mobile. Invest on short feature deployment cycles with product prioritisation (lower lead time). Implement "You build You Run" in an standard way
+Look for at least 70% of infra/deploys to be uniform, leave corner cases for data and mobile. Invest on short feature deployment cycles with product prioritization (lower lead time). Implement "You build You Run" in an standard way
 Simplify your stack — good engineering is boring. Avoid virtue signalling when building blocks: functional language, NoSQL databases, niche architectures are all nicer when they come naturally. 
 
 #### Cost Management
@@ -581,9 +600,9 @@ Some cloud providers give you increasing discounts as your usage grows. Others r
 
 Only go for containers with a stable stack and after nailing CI/CD. Containers are great for density and usage, but nothing wrong with Virtual Machines if they fit your bill. Autoscaling suffers outside of Kubernetes but there are other benefits. 
 
-Speaking of which, when you go for specialised tools such as Kubernetes, you also have to go for specialised people and remember that distributed systems are hard. Pick your fight. The stable stack I've mentioned is the one that fits well your development model and containers. Don't stuff a huge application into a thing designed to grow horizontally. 2TB containers don't make sense.
+Speaking of which, when you go for specialized tools such as Kubernetes, you also have to go for specialized people and remember that distributed systems are hard. Pick your fight. The stable stack I've mentioned is the one that fits well your development model and containers. Don't stuff a huge application into a thing designed to grow horizontally. 2TB containers don't make sense.
 
-Monitor egress and ingress traffic, cross region and hidden Cloud costs. For instance at the [Open AWS GUIDE](https://github.com/open-guides/og-aws) you will find a session about [network costs](https://github.com/open-guides/og-aws#aws-data-transfer-costs). The figures are not up to date but the flow is clear. 
+Monitor egress and ingress traffic, cross region and hidden Cloud costs. For instance at the [Open AWS GUIDE](https://github.com/open-guides/og-aws) you will find a session about [network costs](https://github.com/open-guides/og-aws#aws-data-transfer-costs). The $$ figures are not up to date but the flow is clear. 
 
 I've seen huge bills due to non mapped traffic through Managed NAT Gateways and poorly set S3 buckets. Same for EKS you can hurt yourself with cross zone traffic. Loose disk snapshots and images, unused load balancers and gateways are a source of hidden cost. Keep an eye on them, tidy up.
 
@@ -602,7 +621,7 @@ It is easy to default to creating bureaucratic structures when it is hard to mea
 
 Being on the losing end of a leak or security incident hurts. You are not alone. It is not if, it is when. Working with security has a double burden: it is always critical and you have to deal with the worst kind of initiative all around. Be mindful of your mental health all the times.
 
-As a CTO or tech executive you may have to manage an Infosec team. Or step into one. Or deal with one of these teams out of your organisation. I will hereby thread safely and respectfully giving the advice that helped me in such times. 
+As a CTO or tech executive you may have to manage an Infosec team. Or step into one. Or deal with one of these teams out of your organization. I will hereby thread safely and respectfully giving the advice that helped me in such times. 
 
 The advice that helped me most is to hire people that really like Infosec, curious engineers that are willing to learn what they don't know. This is slightly different than seasoned or traditional Infosec engineers. Hire experienced security engineers to teach them and your team. 
 
@@ -638,7 +657,7 @@ If you don't have Infosec Metrics, start with two metrics:
 	* Incidents per month 
 	* Time to fix vulnerabilities found by pen testing. 
 
-These are relevant to engineers, product managers and people outside of your organisation. At some point, interrupting the team to fix security findings will appear in the top 5 reasons why a new feature was not delivered and it is good to have history.
+These are relevant to engineers, product managers and people outside of your organization. At some point, interrupting the team to fix security findings will appear in the top 5 reasons why a new feature was not delivered and it is good to have history.
 
 #### Data
 
@@ -650,11 +669,11 @@ Data is valuable and deserves a few comments. There are some common teams that d
 
 *Data Engineering*: Sometimes data infra, but builds platform and data lakes, model data, automate ETLs and ingestions. You will see these teams migrating to support machine learning pipelines and large analytics efforts.
 
-*Analytics or BI*: Coming from a corporate set and adapting, these are people that can figure out what the data means, build churn and regression models, support high executives on complex decisions by forecasting market or sales. A lot of data scientists sit there or start there to move on to specialised roles.
+*Analytics or BI*: Coming from a corporate set and adapting, these are people that can figure out what the data means, build churn and regression models, support high executives on complex decisions by forecasting market or sales. A lot of data scientists sit there or start there to move on to specialized roles.
 
 *Data Science*: People of all backgrounds are set to solve hard problems by using data. If you find a better description please let me know, I saw it a lot and all of them are different. 
 
-The foundation of a good Data Engineer is a good Engineer. The specialisation is on tools and methodologies but overall you should look for good principles. Data Scientists without a good engineering foundation struggle to deliver. Analytics/BI without engineering usually does very well. Go figure.
+The foundation of a good Data Engineer is a good Engineer. The specialization is on tools and methodologies but overall you should look for good principles. Data Scientists without a good engineering foundation struggle to deliver. Analytics/BI without engineering usually does very well. Go figure.
 
 Data engineering is not Devops. There is a migration of Infrastructure Engineers to Data due to affinity of platform and infrastructure but their mindset is different. Managing distributed databases, migrating data, draining and running queues may look as an infrastructure problem but it requires a different set of tools and knowledge.
 
@@ -681,14 +700,21 @@ Avoid:
 	* Building a log pipeline (use ELK, use Athena/S3)
 	* Teams too far apart or disconnected
 
+If you got curious [I've put together a slide deck about a common data organization here](https://docs.google.com/presentation/d/17aES_3jnMMfqfiXvtzKzGX_SmSCSYcVkEFiOCD39A4k/edit?usp=sharing). 
+
+It maps roles to teams, career ladder and a suggestion of how to tie together teams and types of work.
+
+
 ### Closing advices
 
 Is this a book ? Not yet. Not the authoritative source for what you should do. I've put down what helped me and not when it helped me, because I tried to abstract situations, companies and people.
 
 #### Span of control
+
 When building or reorganizing teams, keep the span of control on 5 to 8 people for each manager, including you. Opt for line managers with small teams and clear objective and planning rituals that you can help instead of an overly hierarchical org. Engineering managers should support line managers, this is their most important job (a close) second only to hiring. 
 
 #### Stacks and platforms
+
 Advocate for standard stacks and technology. Not the one you love, but the ones that work well for the team. Make them accountable for delivery. 
 
 A good platform that makes deployment, observability and testing is worth 10x a language war. Fix that first. 
@@ -712,6 +738,7 @@ Good and smart engineering helps more. Don’t try to blindly save on tools that
 Don't save going for less than optimal hiring. Cheap here means trouble later.
 
 #### Communication 
+
 Writing will be what you will do most in the remote reality we have now. Go for a written culture that is better to keep up at different timezones.
 
 I've found out a set of advices from Amazon on writing in [this book](https://www.amazon.com/gp/product/1260455491/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=inccomlinkcom-20&creative=9325&linkCode=as2&creativeASIN=1260455491&linkId=61476311720e85d0be5e38d1e6792baf). I try to stick to the to the following and it is a constant exercise to keep in line (hence this ebook being a git project with reviews):
@@ -741,6 +768,7 @@ I've found out a set of advices from Amazon on writing in [this book](https://ww
 I am not a native English speaker so writing was hard for a while. [On Writing Well](https://www.amazon.com/dp/B0090RVGW0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) provides actionable advice and helped me a lot. Work on it, communicating well is required.
 
 #### Real final advice I promise
+
 And finally, you are the outsider, people tend to think the past was better than it really was. If there is a team, they will probably project on you the changes at some point. 
 
 Breathe, give some space. Be kind to yourself and straight clear when people step over your boundaries.
