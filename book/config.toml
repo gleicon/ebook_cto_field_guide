@@ -1,0 +1,13 @@
+baseURL = 'https://the.ctofieldguide.com'
+languageCode = 'en-us'
+title = 'The CTO Field Guide'
+theme = 'hugo-book' 
+disablePathToLower = true
+enableGitInfo = true
+
+[params]
+  BookTheme = 'dark'
+  BookToC = true
+  BookSection = 'docs'
+  BookMenuBundle = '/menu'
+
