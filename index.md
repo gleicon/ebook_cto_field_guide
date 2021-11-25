@@ -542,11 +542,13 @@ Shared efforts are hard to push. Some decisions coming from Legal, Finance and I
 Organisations that were not born this way (most if not all of them) may have shared codebase and processes. Who owns them prior to a big micro service split and rewrite ? Look up for teams called "ACME", "ATLAS", "PHOENIX" or "SKUNKWORKS" that "takes care of what no one is looking for"
 
 ![BUs with Engineering Horizontals](images/bu_and_eng_horizontals.png)
+
 Vertical Tribes over a thin engineering horizontal and a catch all back office team
 
 The tribe model is too stretched, as we discussed cross business concerns are spread across individuals, it is hard to identify duplicated decisions and structures: If I don’t like your mobile framework, should I adopt a new one ? The cost of discussing it through the CTO may make deciding locally attractive. 
 
 ![BUs with Business and Engineering Horizontals](images/bu_w_business_horizontals.png)
+
 A balanced approach for fast product teams taking in account the engineering and business undifferentiated lifting
 
 After these stretches most organizations approach the independence problem from a Business Area with shared P&L (profit and loss) perspective, looking where sharing can optimize cost and speed. All that to say we always revert to the same model.
